@@ -54,8 +54,8 @@ jobs:
             if curl -fsSL --retry 3 --retry-all-errors -o lod2.zip "$u"; then echo "$u" > out/source_url.txt; break; fi
           done
           ls -la lod2.zip && unzip -l lod2.zip | head -30 && unzip -l lod2.zip | tail -3
-      - name: Footprints + heights
-        continue-on-error: true in Altona / Eimsbüttel
+      - name: Footprints + heights in Altona / Eimsbüttel
+        continue-on-error: true
         run: |
           cd /tmp/f && python3 $GITHUB_WORKSPACE/pipeline/lod2.py lod2.zip out/lod2_ae.parquet
           ls -la out
