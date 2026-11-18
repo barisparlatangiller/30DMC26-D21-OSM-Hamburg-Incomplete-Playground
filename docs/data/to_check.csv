@@ -1,0 +1,673 @@
+id,bezirk,name,reg_name,status,known,missing,note,area,lat,lon,osm_link
+reg:006475,Altona,,Nansenstraße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,7254.0,53.579018,9.907401,
+reg:003276,Altona,,Bornheide,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,6875.0,53.588742,9.852656,
+osm:w32634922,Altona,,Fahrenort,both,0,"shade, trees, seating, wheelchair, equipment",,5501.0,53.599646,9.872986,https://www.openstreetmap.org/way/32634922
+reg:002603,Eimsbüttel,,Borkenweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,3624.0,53.612754,9.893962,
+reg:006494,Altona,,Flurstraße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,3614.0,53.591525,9.86977,
+osm:w20925040,Eimsbüttel,Spielplatz Kriegerdankweg/Riekbornweg,Kriegerdankweg - Riekbornweg,both,0,"shade, trees, seating, wheelchair, equipment",,3596.0,53.632974,9.915776,https://www.openstreetmap.org/way/20925040
+reg:002776,Eimsbüttel,,Eidelstedter Weg - Wiesingerweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,3343.0,53.581239,9.957029,
+reg:002758,Altona,,Böttcherkamp - Am Barls,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,3180.0,53.593585,9.851017,
+reg:005538,Altona,,Sibeliusstraße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,2761.0,53.560999,9.902779,
+reg:003268,Altona,,Stückweg - Jevenstedter Straße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,2661.0,53.598504,9.87234,
+osm:w678895741,Altona,,Friedrichshulder Weg - Randowstraße,both,0,"shade, trees, seating, wheelchair, equipment",,2563.0,53.606663,9.879141,https://www.openstreetmap.org/way/678895741
+reg:002632,Eimsbüttel,,Försterweg - Brunckhorstweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,2169.0,53.580537,9.93307,
+osm:w242398166,Eimsbüttel,Spielplatz Försterweg/Brunckhorstweg,Försterweg - Brunckhorstweg,both,0,"shade, trees, seating, wheelchair, equipment",,1881.0,53.580653,9.933102,https://www.openstreetmap.org/way/242398166
+osm:w290296198,Altona,,Heinrich-Plett-Straße,both,0,"shade, trees, seating, wheelchair, equipment",,1859.0,53.569795,9.866395,https://www.openstreetmap.org/way/290296198
+osm:w168561188,Altona,,Rispenweg,both,0,"shade, trees, seating, wheelchair, equipment",,1846.0,53.598882,9.892076,https://www.openstreetmap.org/way/168561188
+reg:002544,Eimsbüttel,,Eimsbütteler Chaussee,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1826.0,53.56625,9.959167,
+reg:002530,Eimsbüttel,,Grindelberg - Brahmsallee,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1795.0,53.575163,9.977993,
+reg:006495,Altona,,Rissener Busch,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1702.0,53.579951,9.766772,
+reg:002699,Eimsbüttel,,Fruchtallee,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1615.0,53.57131,9.954153,
+osm:w1095320222,Altona,,Franzosenkoppel - Boberstraße,both,0,"shade, trees, seating, wheelchair, equipment",,1603.0,53.600098,9.883789,https://www.openstreetmap.org/way/1095320222
+osm:w904289356,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,1595.0,53.573244,9.868441,https://www.openstreetmap.org/way/904289356
+reg:002789,Eimsbüttel,,Burgunderweg - Teutonenweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1526.0,53.631231,9.971699,
+reg:003245,Altona,,Silcherstraße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1464.0,53.56724,9.902583,
+reg:002457,Eimsbüttel,,Hartsprung,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1444.0,53.603197,9.958003,
+reg:002650,Eimsbüttel,,Johann-Wenth-Straße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1425.0,53.59119,9.927336,
+osm:w25573476,Altona,,Karstenstraße,both,0,"shade, trees, seating, wheelchair, equipment",,1391.0,53.565045,9.801299,https://www.openstreetmap.org/way/25573476
+reg:005835,Eimsbüttel,,Burgunderweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1340.0,53.631478,9.976018,
+reg:004961,Eimsbüttel,,Deepenstöcken,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1315.0,53.584568,9.951629,
+reg:002498,Eimsbüttel,,Warnstedtstraße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1187.0,53.584092,9.930934,
+reg:005176,Eimsbüttel,,Schleswiger Damm 223 - Holsteiner Chaussee 410,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1131.0,53.649333,9.907626,
+reg:005202,Altona,,Lyserstraße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1131.0,53.562597,9.90351,
+reg:006568,Altona,,Emma-Poel-Straße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1119.0,53.561125,9.936403,
+osm:w361643351,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,1090.0,53.575371,9.904837,https://www.openstreetmap.org/way/361643351
+osm:w143031372,Eimsbüttel,,Ordulfstraße,both,0,"shade, trees, seating, wheelchair, equipment",,1055.0,53.624318,9.941408,https://www.openstreetmap.org/way/143031372
+reg:006225,Eimsbüttel,,Eidelstedter Weg - Wiesingerweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,1001.0,53.581327,9.958034,
+osm:w1160832766,Eimsbüttel,Spielplatz Bansgraben,Bansgraben - Johannkamp,both,0,"shade, trees, seating, wheelchair, equipment",,961.0,53.630427,9.95142,https://www.openstreetmap.org/way/1160832766
+reg:004962,Eimsbüttel,,Deepenstöcken,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,954.0,53.584873,9.951484,
+osm:w637217629,Altona,,Heinrich-Plett-Straße - Osdorfer Landstraße,both,0,"shade, trees, seating, wheelchair, equipment",,905.0,53.570705,9.865685,https://www.openstreetmap.org/way/637217629
+osm:w33843838,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,890.0,53.554508,9.915935,https://www.openstreetmap.org/way/33843838
+reg:003123,Altona,,Rüsternkamp,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,889.0,53.570156,9.885915,
+osm:w128072944,Altona,,Kempelbarg 18,both,0,"shade, trees, seating, wheelchair, equipment",,887.0,53.584681,9.879547,https://www.openstreetmap.org/way/128072944
+osm:w544340274,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,877.0,53.61464,9.909051,https://www.openstreetmap.org/way/544340274
+osm:w125509744,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,876.0,53.634391,9.969361,https://www.openstreetmap.org/way/125509744
+osm:w309105124,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,870.0,53.605982,9.870191,https://www.openstreetmap.org/way/309105124
+osm:w316245833,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,864.0,53.567285,9.830485,https://www.openstreetmap.org/way/316245833
+osm:w309105112,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,862.0,53.605962,9.864305,https://www.openstreetmap.org/way/309105112
+osm:w307108705,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,857.0,53.60187,9.897341,https://www.openstreetmap.org/way/307108705
+osm:w678895746,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,851.0,53.605785,9.879711,https://www.openstreetmap.org/way/678895746
+osm:w28703269,Altona,,Immenbusch,both,0,"shade, trees, seating, wheelchair, equipment",,803.0,53.588182,9.855768,https://www.openstreetmap.org/way/28703269
+osm:w201869928,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,792.0,53.600222,9.868452,https://www.openstreetmap.org/way/201869928
+osm:w31052823,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,775.0,53.583771,9.829331,https://www.openstreetmap.org/way/31052823
+osm:w68326923,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,772.0,53.596835,9.873156,https://www.openstreetmap.org/way/68326923
+reg:003073,Altona,,Veermoor - Brander Weg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,768.0,53.607414,9.874206,
+osm:w678895791,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,721.0,53.607881,9.86604,https://www.openstreetmap.org/way/678895791
+osm:w173267408,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,720.0,53.574372,9.862322,https://www.openstreetmap.org/way/173267408
+osm:w679667147,Altona,,Baurstraße,both,0,"shade, trees, seating, wheelchair, equipment",,707.0,53.559363,9.902658,https://www.openstreetmap.org/way/679667147
+osm:w678895778,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,692.0,53.604375,9.878023,https://www.openstreetmap.org/way/678895778
+osm:w125346985,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,687.0,53.629321,9.963683,https://www.openstreetmap.org/way/125346985
+osm:w309105127,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,674.0,53.603366,9.866228,https://www.openstreetmap.org/way/309105127
+osm:w121658998,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,662.0,53.607865,9.893232,https://www.openstreetmap.org/way/121658998
+osm:w125600163,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,636.0,53.580051,9.929145,https://www.openstreetmap.org/way/125600163
+osm:w756541175,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,621.0,53.598259,9.888827,https://www.openstreetmap.org/way/756541175
+reg:006496,Altona,,Othmarscher Kirchenweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,600.0,53.552852,9.902585,
+reg:002656,Eimsbüttel,,Bundesstraße - Kaiser-Friedrich-Ufer,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,591.0,53.573297,9.965321,
+osm:w792630657,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,587.0,53.604048,9.953775,https://www.openstreetmap.org/way/792630657
+osm:w685217013,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,571.0,53.606335,9.95479,https://www.openstreetmap.org/way/685217013
+osm:w201869922,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,565.0,53.601876,9.863099,https://www.openstreetmap.org/way/201869922
+reg:002486,Eimsbüttel,,Amandastraße - Margaretenstraße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,549.0,53.566083,9.964288,
+osm:w186809160,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,543.0,53.584702,9.850036,https://www.openstreetmap.org/way/186809160
+reg:006581,Altona,,Govertsweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,543.0,53.554517,9.950451,
+osm:w188077080,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,537.0,53.586402,9.855752,https://www.openstreetmap.org/way/188077080
+osm:w1164206182,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,517.0,53.629294,9.920634,https://www.openstreetmap.org/way/1164206182
+osm:w321476337,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,515.0,53.64372,9.950175,https://www.openstreetmap.org/way/321476337
+osm:w658308264,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,504.0,53.612331,9.927362,https://www.openstreetmap.org/way/658308264
+osm:w32388149,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,495.0,53.587484,9.857298,https://www.openstreetmap.org/way/32388149
+osm:w64826418,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,490.0,53.615011,9.884561,https://www.openstreetmap.org/way/64826418
+osm:w678895769,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,466.0,53.60342,9.87903,https://www.openstreetmap.org/way/678895769
+reg:003314,Altona,,Bismarckstein,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,460.0,53.561104,9.797816,
+osm:w1354751724,Altona,,,osm_park,0,"shade, trees, seating, wheelchair, equipment",,432.0,53.562567,9.850436,https://www.openstreetmap.org/way/1354751724
+osm:w147142869,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,426.0,53.583357,9.809786,https://www.openstreetmap.org/way/147142869
+osm:w125346982,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,424.0,53.629634,9.965504,https://www.openstreetmap.org/way/125346982
+osm:w894315951,Eimsbüttel,,Graf-Ernst-Weg,both,0,"shade, trees, seating, wheelchair, equipment",,424.0,53.624622,9.91499,https://www.openstreetmap.org/way/894315951
+osm:w928301539,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,408.0,53.594141,9.949555,https://www.openstreetmap.org/way/928301539
+osm:w1271155796,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,408.0,53.558269,9.91559,https://www.openstreetmap.org/way/1271155796
+osm:w102819839,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,395.0,53.605935,9.866228,https://www.openstreetmap.org/way/102819839
+osm:w515220961,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,392.0,53.574042,9.896989,https://www.openstreetmap.org/way/515220961
+osm:w363499207,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,385.0,53.602993,9.916289,https://www.openstreetmap.org/way/363499207
+osm:w452572670,Altona,,Neißestraße - Warthestraße,both,0,"shade, trees, seating, wheelchair, equipment",,385.0,53.603227,9.863792,https://www.openstreetmap.org/way/452572670
+osm:w1246264741,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,379.0,53.606725,9.890105,https://www.openstreetmap.org/way/1246264741
+osm:w338672806,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,376.0,53.55016,9.931979,https://www.openstreetmap.org/way/338672806
+osm:w400296526,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,376.0,53.58113,9.960364,https://www.openstreetmap.org/way/400296526
+osm:w219706928,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,374.0,53.589803,9.866466,https://www.openstreetmap.org/way/219706928
+osm:w677515339,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,363.0,53.609022,9.885248,https://www.openstreetmap.org/way/677515339
+osm:w1000823898,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,358.0,53.554695,9.914731,https://www.openstreetmap.org/way/1000823898
+osm:w118586232,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,344.0,53.603164,9.926816,https://www.openstreetmap.org/way/118586232
+osm:w1396083352,Altona,,Hohenzollernring,both,0,"shade, trees, seating, wheelchair, equipment",,343.0,53.558362,9.917956,https://www.openstreetmap.org/way/1396083352
+osm:w637203625,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,331.0,53.572979,9.867949,https://www.openstreetmap.org/way/637203625
+osm:w1279425943,Eimsbüttel,,,osm_park,0,"shade, trees, seating, wheelchair, equipment",,308.0,53.639921,9.94313,https://www.openstreetmap.org/way/1279425943
+osm:w617849501,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,307.0,53.594279,9.970641,https://www.openstreetmap.org/way/617849501
+osm:w102819711,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,304.0,53.604354,9.862131,https://www.openstreetmap.org/way/102819711
+osm:w147249616,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,298.0,53.581897,9.805813,https://www.openstreetmap.org/way/147249616
+osm:w481849524,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,293.0,53.619641,9.898881,https://www.openstreetmap.org/way/481849524
+osm:w1064835524,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,283.0,53.593312,9.872499,https://www.openstreetmap.org/way/1064835524
+osm:w72658265,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,278.0,53.594799,9.889765,https://www.openstreetmap.org/way/72658265
+osm:w201869923,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,269.0,53.601531,9.865107,https://www.openstreetmap.org/way/201869923
+osm:w61367295,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,268.0,53.592412,9.969728,https://www.openstreetmap.org/way/61367295
+osm:w52664034,Eimsbüttel,,Ordulfstraße,both,0,"shade, trees, seating, wheelchair, equipment",,265.0,53.623919,9.941768,https://www.openstreetmap.org/way/52664034
+reg:002481,Altona,,Olbersweg - Palmaille,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,263.0,53.545608,9.943922,
+osm:w1298195733,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,260.0,53.585921,9.855053,https://www.openstreetmap.org/way/1298195733
+osm:w131595119,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,249.0,53.596585,9.88654,https://www.openstreetmap.org/way/131595119
+osm:w1299354752,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,249.0,53.604203,9.904823,https://www.openstreetmap.org/way/1299354752
+osm:w29388148,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,248.0,53.589058,9.860674,https://www.openstreetmap.org/way/29388148
+osm:w195829362,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,242.0,53.561546,9.823132,https://www.openstreetmap.org/way/195829362
+osm:w131595298,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,240.0,53.595436,9.891483,https://www.openstreetmap.org/way/131595298
+osm:w181132851,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,218.0,53.584896,9.856598,https://www.openstreetmap.org/way/181132851
+osm:w670214345,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,208.0,53.600011,9.866123,https://www.openstreetmap.org/way/670214345
+osm:w535468640,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,206.0,53.612704,9.905056,https://www.openstreetmap.org/way/535468640
+osm:w77355750,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,203.0,53.575131,9.939975,https://www.openstreetmap.org/way/77355750
+osm:w326332232,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,203.0,53.59412,9.88986,https://www.openstreetmap.org/way/326332232
+osm:w102439686,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,202.0,53.589096,9.850978,https://www.openstreetmap.org/way/102439686
+reg:000387,Altona,,Schulgartenweg,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,202.0,53.576975,9.895813,
+osm:w617849502,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,201.0,53.594287,9.971848,https://www.openstreetmap.org/way/617849502
+osm:w641520108,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,197.0,53.60775,9.890953,https://www.openstreetmap.org/way/641520108
+osm:w1296084894,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,190.0,53.631476,9.912357,https://www.openstreetmap.org/way/1296084894
+osm:w1222613351,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,189.0,53.561029,9.906356,https://www.openstreetmap.org/way/1222613351
+osm:w1163339750,Eimsbüttel,,,osm_park,0,"shade, trees, seating, wheelchair, equipment",,186.0,53.62813,9.952213,https://www.openstreetmap.org/way/1163339750
+osm:w181132850,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,182.0,53.586329,9.854927,https://www.openstreetmap.org/way/181132850
+osm:w958923411,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,175.0,53.638464,9.908773,https://www.openstreetmap.org/way/958923411
+osm:w1246264742,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,175.0,53.607354,9.889593,https://www.openstreetmap.org/way/1246264742
+osm:w28703263,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,174.0,53.585742,9.856298,https://www.openstreetmap.org/way/28703263
+osm:w617849503,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,173.0,53.594862,9.971874,https://www.openstreetmap.org/way/617849503
+osm:w485013616,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,170.0,53.606389,9.906051,https://www.openstreetmap.org/way/485013616
+osm:w122746413,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,168.0,53.624433,9.911786,https://www.openstreetmap.org/way/122746413
+osm:w226051325,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,168.0,53.590746,9.960124,https://www.openstreetmap.org/way/226051325
+osm:w1011248415,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,165.0,53.618479,9.901061,https://www.openstreetmap.org/way/1011248415
+osm:w173267406,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,159.0,53.574421,9.861757,https://www.openstreetmap.org/way/173267406
+osm:w775463412,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,159.0,53.595378,9.972082,https://www.openstreetmap.org/way/775463412
+osm:w59009545,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,154.0,53.546618,9.954559,https://www.openstreetmap.org/way/59009545
+osm:w447039057,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,154.0,53.590744,9.849337,https://www.openstreetmap.org/way/447039057
+osm:w183471470,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,152.0,53.585616,9.854237,https://www.openstreetmap.org/way/183471470
+reg:004963,Eimsbüttel,,Deepenstöcken,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,152.0,53.584785,9.951838,
+osm:w986359404,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,149.0,53.568669,9.83147,https://www.openstreetmap.org/way/986359404
+osm:w997117858,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,147.0,53.548501,9.953323,https://www.openstreetmap.org/way/997117858
+osm:w959191688,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,129.0,53.612192,9.899334,https://www.openstreetmap.org/way/959191688
+osm:w1245572033,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,121.0,53.62107,9.9011,https://www.openstreetmap.org/way/1245572033
+osm:w98886446,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,108.0,53.598467,9.859902,https://www.openstreetmap.org/way/98886446
+osm:w118148348,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,106.0,53.60974,9.90767,https://www.openstreetmap.org/way/118148348
+osm:w121569120,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,103.0,53.611276,9.886101,https://www.openstreetmap.org/way/121569120
+osm:w1245572041,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,101.0,53.620398,9.902966,https://www.openstreetmap.org/way/1245572041
+osm:w452572669,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,97.0,53.604327,9.866406,https://www.openstreetmap.org/way/452572669
+osm:w1011248411,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,95.0,53.619182,9.898773,https://www.openstreetmap.org/way/1011248411
+osm:w447639032,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,90.0,53.591658,9.852235,https://www.openstreetmap.org/way/447639032
+osm:w1203153577,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,88.0,53.587468,9.846088,https://www.openstreetmap.org/way/1203153577
+osm:w25701529,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,87.0,53.627229,9.90514,https://www.openstreetmap.org/way/25701529
+osm:w1218494629,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,87.0,53.636087,9.920881,https://www.openstreetmap.org/way/1218494629
+osm:w1064370530,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,83.0,53.572274,9.893894,https://www.openstreetmap.org/way/1064370530
+osm:w1245572037,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,81.0,53.62074,9.902033,https://www.openstreetmap.org/way/1245572037
+osm:w121062322,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,80.0,53.615199,9.891392,https://www.openstreetmap.org/way/121062322
+osm:w131288298,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,78.0,53.599191,9.881847,https://www.openstreetmap.org/way/131288298
+osm:w909183643,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,73.0,53.611563,9.886377,https://www.openstreetmap.org/way/909183643
+osm:w1457814449,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,71.0,53.591561,9.954882,https://www.openstreetmap.org/way/1457814449
+osm:w121569138,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,70.0,53.61163,9.886466,https://www.openstreetmap.org/way/121569138
+osm:w1115724804,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,67.0,53.559366,9.906267,https://www.openstreetmap.org/way/1115724804
+osm:w1218255081,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,64.0,53.610623,9.96195,https://www.openstreetmap.org/way/1218255081
+osm:w1258223770,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,64.0,53.574649,9.84971,https://www.openstreetmap.org/way/1258223770
+osm:w191380882,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,63.0,53.580908,9.807641,https://www.openstreetmap.org/way/191380882
+osm:w1457814448,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,59.0,53.591418,9.954878,https://www.openstreetmap.org/way/1457814448
+osm:w104115761,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,55.0,53.606337,9.866777,https://www.openstreetmap.org/way/104115761
+osm:w1275077341,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,50.0,53.546834,9.946299,https://www.openstreetmap.org/way/1275077341
+osm:w1270688595,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,49.0,53.643109,9.947553,https://www.openstreetmap.org/way/1270688595
+osm:w1419656071,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,49.0,53.548935,9.950007,https://www.openstreetmap.org/way/1419656071
+osm:w126326555,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,47.0,53.637884,9.961789,https://www.openstreetmap.org/way/126326555
+osm:w131180182,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,47.0,53.597413,9.884652,https://www.openstreetmap.org/way/131180182
+osm:w647265329,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,40.0,53.577994,9.792048,https://www.openstreetmap.org/way/647265329
+osm:w1270688594,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,38.0,53.642937,9.947432,https://www.openstreetmap.org/way/1270688594
+osm:w1270688596,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,38.0,53.643027,9.947693,https://www.openstreetmap.org/way/1270688596
+osm:w118148361,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,32.0,53.609075,9.906068,https://www.openstreetmap.org/way/118148361
+osm:w647265325,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,30.0,53.576869,9.791497,https://www.openstreetmap.org/way/647265325
+osm:w1144934280,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,28.0,53.571438,9.896133,https://www.openstreetmap.org/way/1144934280
+osm:w1144934281,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,28.0,53.571975,9.894545,https://www.openstreetmap.org/way/1144934281
+osm:w1212232845,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,25.0,53.565475,9.945288,https://www.openstreetmap.org/way/1212232845
+osm:w1245572036,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,23.0,53.620577,9.901843,https://www.openstreetmap.org/way/1245572036
+osm:w647265331,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,18.0,53.577776,9.791872,https://www.openstreetmap.org/way/647265331
+osm:w833159578,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,18.0,53.591258,9.956075,https://www.openstreetmap.org/way/833159578
+osm:w131180179,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",,14.0,53.597206,9.883353,https://www.openstreetmap.org/way/131180179
+reg:006221,Eimsbüttel,,Amandastraße - Margaretenstraße,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,9.0,53.565927,9.96443,
+reg:003089,Altona,,Immenbusch,register_only,0,"shade, trees, seating, wheelchair, equipment",not mapped as leisure=playground — check on site,0.0,53.588112,9.85498,
+osm:n293757998,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.639073,9.967713,https://www.openstreetmap.org/node/293757998
+osm:n297769509,Altona,,Böverstland,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.59547,9.872589,https://www.openstreetmap.org/node/297769509
+osm:n364370792,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.560429,9.90474,https://www.openstreetmap.org/node/364370792
+osm:n412739737,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.571458,9.991566,https://www.openstreetmap.org/node/412739737
+osm:n735861818,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.600027,9.887517,https://www.openstreetmap.org/node/735861818
+osm:n735861840,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.600642,9.888013,https://www.openstreetmap.org/node/735861840
+osm:n841275401,Eimsbüttel,,,osm_park,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.643858,9.956406,https://www.openstreetmap.org/node/841275401
+osm:n1012901563,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.645537,9.910145,https://www.openstreetmap.org/node/1012901563
+osm:n1012901565,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.648831,9.908007,https://www.openstreetmap.org/node/1012901565
+osm:n1084366214,Altona,,Knabeweg,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.574475,9.854302,https://www.openstreetmap.org/node/1084366214
+osm:n1345237161,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.560792,9.951797,https://www.openstreetmap.org/node/1345237161
+osm:n1354992195,Eimsbüttel,Spielplatz Halstenbeker Weg,Halstenbeker Weg,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.617791,9.880007,https://www.openstreetmap.org/node/1354992195
+osm:n1379953340,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.623856,9.943713,https://www.openstreetmap.org/node/1379953340
+osm:n1381852520,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.621981,9.946108,https://www.openstreetmap.org/node/1381852520
+osm:n1381852521,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.622018,9.947194,https://www.openstreetmap.org/node/1381852521
+osm:n1385008907,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.624909,9.95768,https://www.openstreetmap.org/node/1385008907
+osm:n1400709999,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.63501,9.958676,https://www.openstreetmap.org/node/1400709999
+osm:n1407363009,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.572079,9.945955,https://www.openstreetmap.org/node/1407363009
+osm:n1455172611,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.575205,9.857184,https://www.openstreetmap.org/node/1455172611
+osm:n1481572544,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.589759,9.961029,https://www.openstreetmap.org/node/1481572544
+osm:n1481572545,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.589657,9.961056,https://www.openstreetmap.org/node/1481572545
+osm:n1489333016,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.558866,9.907715,https://www.openstreetmap.org/node/1489333016
+osm:n1490309448,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.572687,9.876945,https://www.openstreetmap.org/node/1490309448
+osm:n1509277374,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.643805,9.915862,https://www.openstreetmap.org/node/1509277374
+osm:n1511324492,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.546996,9.950348,https://www.openstreetmap.org/node/1511324492
+osm:n1516403307,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.545635,9.950241,https://www.openstreetmap.org/node/1516403307
+osm:n1516403320,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.545701,9.950364,https://www.openstreetmap.org/node/1516403320
+osm:n1530296498,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.593679,9.953824,https://www.openstreetmap.org/node/1530296498
+osm:n1599412774,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.557721,9.912094,https://www.openstreetmap.org/node/1599412774
+osm:n1599412789,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.55755,9.911976,https://www.openstreetmap.org/node/1599412789
+osm:n1672262362,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.572179,9.945716,https://www.openstreetmap.org/node/1672262362
+osm:n1807883143,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.559631,9.90521,https://www.openstreetmap.org/node/1807883143
+osm:n2144674674,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.567409,9.94318,https://www.openstreetmap.org/node/2144674674
+osm:n2232406103,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.575555,9.852794,https://www.openstreetmap.org/node/2232406103
+osm:n2296901509,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.560514,9.929384,https://www.openstreetmap.org/node/2296901509
+osm:n2394550915,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.623854,9.914062,https://www.openstreetmap.org/node/2394550915
+osm:n2394550917,Eimsbüttel,,Graf-Ernst-Weg,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.624413,9.914558,https://www.openstreetmap.org/node/2394550917
+osm:n2395596873,Eimsbüttel,,Burgwedel,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.637008,9.915657,https://www.openstreetmap.org/node/2395596873
+osm:n2889221271,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.6178,9.885034,https://www.openstreetmap.org/node/2889221271
+osm:n2925363816,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.558034,9.939049,https://www.openstreetmap.org/node/2925363816
+osm:n3092541444,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.564705,9.978324,https://www.openstreetmap.org/node/3092541444
+osm:n3578105524,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.55824,9.903035,https://www.openstreetmap.org/node/3578105524
+osm:n3588464636,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.612139,9.904138,https://www.openstreetmap.org/node/3588464636
+osm:n3590743133,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.615159,9.907525,https://www.openstreetmap.org/node/3590743133
+osm:n3618094715,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.604969,9.911666,https://www.openstreetmap.org/node/3618094715
+osm:n3618094716,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.605099,9.910479,https://www.openstreetmap.org/node/3618094716
+osm:n3618094717,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.605141,9.911117,https://www.openstreetmap.org/node/3618094717
+osm:n3618094722,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.605389,9.911604,https://www.openstreetmap.org/node/3618094722
+osm:n3618094900,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.604853,9.910634,https://www.openstreetmap.org/node/3618094900
+osm:n3620995409,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.599771,9.902458,https://www.openstreetmap.org/node/3620995409
+osm:n3620995477,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.60034,9.901353,https://www.openstreetmap.org/node/3620995477
+osm:n4028778747,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.581143,9.960676,https://www.openstreetmap.org/node/4028778747
+osm:n4684389894,Eimsbüttel,,Grothwisch,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.648806,9.912116,https://www.openstreetmap.org/node/4684389894
+osm:n4684389991,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.642362,9.922168,https://www.openstreetmap.org/node/4684389991
+osm:n4810449773,Altona,,,osm_park,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.55755,9.904878,https://www.openstreetmap.org/node/4810449773
+osm:n5085137055,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.555469,9.916179,https://www.openstreetmap.org/node/5085137055
+osm:n5779538435,Altona,,Am Isfeld,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.57221,9.83598,https://www.openstreetmap.org/node/5779538435
+osm:n5983389253,Eimsbüttel,Schlittenberg,Rahweg,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.636321,9.97731,https://www.openstreetmap.org/node/5983389253
+osm:n6036536816,Altona,,Abbestraße - Hohenesch,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.554277,9.92999,https://www.openstreetmap.org/node/6036536816
+osm:n6326499885,Altona,,Johann-Mohr-Weg,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.55752,9.906031,https://www.openstreetmap.org/node/6326499885
+osm:n6384146521,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.566434,9.904815,https://www.openstreetmap.org/node/6384146521
+osm:n7709939641,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.562211,9.939531,https://www.openstreetmap.org/node/7709939641
+osm:n7714509033,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.564626,9.942238,https://www.openstreetmap.org/node/7714509033
+osm:n7762759211,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.638975,9.967672,https://www.openstreetmap.org/node/7762759211
+osm:n8064981107,Altona,,Ottensener Marktplatz,both,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.547486,9.933383,https://www.openstreetmap.org/node/8064981107
+osm:n8298487017,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.554083,9.925499,https://www.openstreetmap.org/node/8298487017
+osm:n8298487018,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.554357,9.926126,https://www.openstreetmap.org/node/8298487018
+osm:n8875654882,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.611183,9.8968,https://www.openstreetmap.org/node/8875654882
+osm:n8875654883,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.612106,9.89732,https://www.openstreetmap.org/node/8875654883
+osm:n9234299617,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.638599,9.940622,https://www.openstreetmap.org/node/9234299617
+osm:n10797341515,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.620249,9.947109,https://www.openstreetmap.org/node/10797341515
+osm:n11607924164,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.562196,9.849002,https://www.openstreetmap.org/node/11607924164
+osm:n11984380903,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.596169,9.892439,https://www.openstreetmap.org/node/11984380903
+osm:n11984471391,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.577414,9.829834,https://www.openstreetmap.org/node/11984471391
+osm:n12208941242,Eimsbüttel,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.613546,9.912556,https://www.openstreetmap.org/node/12208941242
+osm:n12290189182,Eimsbüttel,Grashüpfer,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.589504,9.961279,https://www.openstreetmap.org/node/12290189182
+osm:n12921516954,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.558584,9.914671,https://www.openstreetmap.org/node/12921516954
+osm:n13762492027,Altona,,,osm_other,0,"shade, trees, seating, wheelchair, equipment",mapped as a point only,,53.568674,9.893804,https://www.openstreetmap.org/node/13762492027
+osm:w271025549,Eimsbüttel,Abenteuerspielplatz Eidelstedt-Nord,,osm_other,1,"shade, seating, wheelchair, equipment",,12478.0,53.623927,9.888341,https://www.openstreetmap.org/way/271025549
+osm:w95531745,Altona,,Wesperloh - Flurstraße,both,1,"shade, seating, wheelchair, equipment",,5708.0,53.57521,9.863728,https://www.openstreetmap.org/way/95531745
+osm:w903601083,Altona,,Lüttkamp,both,1,"shade, seating, wheelchair, equipment",,5638.0,53.591221,9.876284,https://www.openstreetmap.org/way/903601083
+osm:w27493608,Eimsbüttel,Geisterspielplatz,Gärtnerstraße 13-19,both,1,"shade, trees, seating, equipment",,5134.0,53.582497,9.969103,https://www.openstreetmap.org/way/27493608
+osm:w29388154,Altona,,Glückstädter Weg,both,1,"shade, seating, wheelchair, equipment",,4759.0,53.589485,9.858621,https://www.openstreetmap.org/way/29388154
+osm:w23386056,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,4584.0,53.611845,9.879222,https://www.openstreetmap.org/way/23386056
+osm:w61402992,Eimsbüttel,,Duvenacker,both,1,"shade, seating, wheelchair, equipment",,4572.0,53.61281,9.913736,https://www.openstreetmap.org/way/61402992
+osm:w70369661,Eimsbüttel,Abenteuerspielplatz Wegenkamp,Wegenkamp,both,1,"shade, seating, wheelchair, equipment",,4287.0,53.604361,9.923862,https://www.openstreetmap.org/way/70369661
+osm:w152187676,Eimsbüttel,,Vielohwisch,both,1,"shade, trees, seating, equipment",,4257.0,53.636653,9.935962,https://www.openstreetmap.org/way/152187676
+osm:w31856543,Altona,,Trenknerweg - Bernadottestraße,both,1,"shade, seating, wheelchair, equipment",,3623.0,53.548666,9.909785,https://www.openstreetmap.org/way/31856543
+osm:w31544812,Eimsbüttel,,Märkerweg,both,1,"shade, seating, wheelchair, equipment",,3438.0,53.643146,9.955902,https://www.openstreetmap.org/way/31544812
+osm:w310841326,Eimsbüttel,,Brummerskamp,both,1,"shade, trees, wheelchair, equipment",,3342.0,53.622404,9.901008,https://www.openstreetmap.org/way/310841326
+osm:w32790923,Altona,Elbe Aktiv Spielplatz,Heinrich-Plett-Straße - Osdorfer Landstraße,both,1,"shade, trees, seating, equipment",,3162.0,53.570392,9.866562,https://www.openstreetmap.org/way/32790923
+osm:w27295670,Eimsbüttel,Kottwitz Spielplatz,Kottwitzstraße,both,1,"shade, trees, seating, equipment",,2987.0,53.578466,9.968828,https://www.openstreetmap.org/way/27295670
+osm:w23841853,Eimsbüttel,Spielplatz Zylberbergstraße,Zylberbergstraße,both,1,"shade, seating, wheelchair, equipment",,2951.0,53.643819,9.910683,https://www.openstreetmap.org/way/23841853
+osm:w29263412,Altona,,,osm_park,1,"shade, seating, wheelchair, equipment",,2937.0,53.591553,9.854726,https://www.openstreetmap.org/way/29263412
+osm:w143710484,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,2759.0,53.556618,9.954181,https://www.openstreetmap.org/way/143710484
+osm:w24512530,Altona,,Kalenbarg,both,1,"shade, trees, seating, wheelchair",,2743.0,53.576888,9.84986,https://www.openstreetmap.org/way/24512530
+osm:w51931289,Eimsbüttel,,,osm_park,1,"shade, seating, wheelchair, equipment",,2422.0,53.617123,9.948405,https://www.openstreetmap.org/way/51931289
+osm:w534200094,Eimsbüttel,,Ameisenkamp - Immenweide,both,1,"shade, seating, wheelchair, equipment",,2316.0,53.619316,9.885323,https://www.openstreetmap.org/way/534200094
+osm:w64181822,Eimsbüttel,Spielplatz Königskinder,Königskinderweg,both,1,"shade, seating, wheelchair, equipment",,2278.0,53.645295,9.918346,https://www.openstreetmap.org/way/64181822
+osm:w28200346,Eimsbüttel,Spielplatz Bellealliancestraße,Bellealliancestraße 57 - 63,both,1,"shade, seating, wheelchair, equipment",,2201.0,53.568715,9.961764,https://www.openstreetmap.org/way/28200346
+osm:w81235547,Altona,,Holmbrook - Hirtenweg,both,1,"shade, trees, seating, equipment",,2186.0,53.551587,9.899027,https://www.openstreetmap.org/way/81235547
+osm:w202332494,Eimsbüttel,,Borkenweg,both,1,"shade, trees, seating, equipment",,2146.0,53.612775,9.893926,https://www.openstreetmap.org/way/202332494
+osm:w72546304,Altona,,Friedrichshulder Weg,both,1,"shade, seating, wheelchair, equipment",,2109.0,53.60428,9.884073,https://www.openstreetmap.org/way/72546304
+osm:w1456514757,Altona,Waldspielplatz Klövensteen,,osm_other,1,"shade, seating, wheelchair, equipment",,2094.0,53.59571,9.747617,https://www.openstreetmap.org/way/1456514757
+osm:w27147618,Eimsbüttel,Rutschbahn,Rutschbahn,both,1,"shade, seating, wheelchair, equipment",,2030.0,53.570393,9.98252,https://www.openstreetmap.org/way/27147618
+osm:w54273851,Eimsbüttel,,Teutonenweg,both,1,"shade, seating, wheelchair, equipment",,2010.0,53.631519,9.970387,https://www.openstreetmap.org/way/54273851
+osm:w1486541480,Eimsbüttel,,Von-Herslo-Weg,both,1,"shade, trees, wheelchair, equipment",,1940.0,53.630697,9.912797,https://www.openstreetmap.org/way/1486541480
+osm:w274819897,Altona,,Ammernweg - Langbargheide,both,1,"shade, trees, seating, equipment",,1885.0,53.594778,9.891451,https://www.openstreetmap.org/way/274819897
+osm:w1319242153,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,1866.0,53.617926,9.895303,https://www.openstreetmap.org/way/1319242153
+osm:w143018859,Altona,,Winklers Platz,both,1,"shade, seating, wheelchair, equipment",,1771.0,53.555444,9.956616,https://www.openstreetmap.org/way/143018859
+osm:w25856486,Altona,Spielplatz Paulsenplatz,Paulsenplatz,both,1,"shade, trees, seating, equipment",,1687.0,53.55977,9.956926,https://www.openstreetmap.org/way/25856486
+osm:w184204800,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,1543.0,53.591246,9.850407,https://www.openstreetmap.org/way/184204800
+osm:w143018893,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,1489.0,53.554666,9.955175,https://www.openstreetmap.org/way/143018893
+osm:w173517882,Altona,Pieperweg,Lütt Iserbrook - Pieperweg,both,1,"shade, seating, wheelchair, equipment",,1416.0,53.580818,9.81736,https://www.openstreetmap.org/way/173517882
+osm:w658308415,Altona,,Holstenstraße,both,1,"shade, seating, wheelchair, equipment",,1400.0,53.553927,9.952401,https://www.openstreetmap.org/way/658308415
+osm:w1073101800,Altona,,Op ´n Hainholdt,both,1,"shade, trees, wheelchair, equipment",,1389.0,53.581636,9.796906,https://www.openstreetmap.org/way/1073101800
+osm:w87762320,Altona,Lunapark Spielplatz,Memelllandallee - Lunapark,both,1,"shade, seating, wheelchair, equipment",,1261.0,53.567104,9.942654,https://www.openstreetmap.org/way/87762320
+osm:w46671935,Eimsbüttel,Spielplatz Weidenallee-Fettstraße,Weidenallee - Fettstraße,both,1,"shade, trees, wheelchair, equipment",,1200.0,53.567707,9.96363,https://www.openstreetmap.org/way/46671935
+osm:w69685674,Altona,Außenbereich KL!CK Kindermuseum,,osm_other,1,"shade, trees, seating, equipment",,1101.0,53.587754,9.847679,https://www.openstreetmap.org/way/69685674
+osm:w33877058,Eimsbüttel,Spielplatz Wiesenstraße,Wiesenstraße,both,1,"shade, seating, wheelchair, equipment",,1095.0,53.577252,9.953013,https://www.openstreetmap.org/way/33877058
+osm:w175632310,Eimsbüttel,,,osm_park,1,"shade, seating, wheelchair, equipment",,1071.0,53.639734,9.944568,https://www.openstreetmap.org/way/175632310
+osm:w32634478,Altona,Spielplatz Alsenpark,Augustenburger Straße,both,1,"shade, seating, wheelchair, equipment",,1036.0,53.565771,9.949992,https://www.openstreetmap.org/way/32634478
+osm:w180398004,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,1006.0,53.582208,9.808282,https://www.openstreetmap.org/way/180398004
+osm:w40959161,Altona,,Sprützmoor,both,1,"shade, seating, wheelchair, equipment",,964.0,53.593732,9.879723,https://www.openstreetmap.org/way/40959161
+osm:w37587956,Eimsbüttel,Spielplatz Kaifu/Hohe Weide,Hohe Weide,both,1,"shade, seating, wheelchair, equipment",,959.0,53.576677,9.973468,https://www.openstreetmap.org/way/37587956
+osm:w119094164,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",,930.0,53.59855,9.902726,https://www.openstreetmap.org/way/119094164
+osm:w723385867,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,926.0,53.586075,9.930904,https://www.openstreetmap.org/way/723385867
+osm:w447039056,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,914.0,53.591059,9.851403,https://www.openstreetmap.org/way/447039056
+osm:w1135669944,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,875.0,53.583474,9.747233,https://www.openstreetmap.org/way/1135669944
+osm:w182384129,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,868.0,53.587668,9.85362,https://www.openstreetmap.org/way/182384129
+osm:w139264618,Eimsbüttel,,Rütersbarg,both,1,"shade, seating, wheelchair, equipment",,847.0,53.603536,9.955454,https://www.openstreetmap.org/way/139264618
+osm:w1231749262,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,780.0,53.575928,9.812749,https://www.openstreetmap.org/way/1231749262
+osm:w68314430,Altona,,,osm_other,1,"shade, trees, seating, equipment",,688.0,53.595089,9.869659,https://www.openstreetmap.org/way/68314430
+osm:w107397099,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,640.0,53.601477,9.959634,https://www.openstreetmap.org/way/107397099
+osm:w87756638,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,629.0,53.56584,9.946214,https://www.openstreetmap.org/way/87756638
+osm:w87747888,Altona,,Augustenburger Straße,both,1,"shade, seating, wheelchair, equipment",,622.0,53.565511,9.947732,https://www.openstreetmap.org/way/87747888
+osm:w1009390856,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,614.0,53.603572,9.882426,https://www.openstreetmap.org/way/1009390856
+osm:w1395792168,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,607.0,53.559067,9.917543,https://www.openstreetmap.org/way/1395792168
+osm:w120172052,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,586.0,53.612508,9.899868,https://www.openstreetmap.org/way/120172052
+osm:w183741504,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,567.0,53.586182,9.851107,https://www.openstreetmap.org/way/183741504
+osm:w112934358,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,566.0,53.556421,9.942575,https://www.openstreetmap.org/way/112934358
+osm:w831442907,Eimsbüttel,,Eimsbütteler Marktplatz,both,1,"shade, seating, wheelchair, equipment",,563.0,53.572657,9.947941,https://www.openstreetmap.org/way/831442907
+osm:w158423527,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,559.0,53.583141,9.949718,https://www.openstreetmap.org/way/158423527
+osm:w1579401371,Eimsbüttel,,,osm_other,1,"shade, trees, wheelchair, equipment",,531.0,53.611074,9.884777,https://www.openstreetmap.org/way/1579401371
+osm:w447701102,Altona,,Immenbusch,both,1,"shade, trees, wheelchair, equipment",,494.0,53.588203,9.854924,https://www.openstreetmap.org/way/447701102
+osm:w200658640,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,480.0,53.590765,9.8543,https://www.openstreetmap.org/way/200658640
+osm:w1223231962,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,480.0,53.556226,9.916199,https://www.openstreetmap.org/way/1223231962
+osm:w1258223769,Altona,Spielplatz Harderweg,,osm_other,1,"shade, trees, wheelchair, equipment",,480.0,53.574108,9.85102,https://www.openstreetmap.org/way/1258223769
+osm:w71088402,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,475.0,53.595488,9.884876,https://www.openstreetmap.org/way/71088402
+osm:w65073158,Altona,,,osm_other,1,"shade, trees, seating, equipment",,474.0,53.582256,9.753113,https://www.openstreetmap.org/way/65073158
+osm:w102679447,Altona,,,osm_other,1,"shade, trees, seating, equipment",,469.0,53.576717,9.866904,https://www.openstreetmap.org/way/102679447
+osm:w649486031,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,466.0,53.592958,9.95382,https://www.openstreetmap.org/way/649486031
+osm:w107397136,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,465.0,53.601828,9.959616,https://www.openstreetmap.org/way/107397136
+osm:w119549530,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",,443.0,53.617529,9.891048,https://www.openstreetmap.org/way/119549530
+osm:w126341118,Eimsbüttel,,Olloweg,both,1,"shade, seating, wheelchair, equipment",,433.0,53.603019,9.915529,https://www.openstreetmap.org/way/126341118
+osm:w344368163,Altona,,Schulgartenweg,both,1,"shade, seating, wheelchair, equipment",,424.0,53.577793,9.897613,https://www.openstreetmap.org/way/344368163
+osm:w1284383078,Altona,Spielplatz im Suttnerpark,Max-Brauer-Allee,both,1,"shade, seating, wheelchair, equipment",,423.0,53.559996,9.950857,https://www.openstreetmap.org/way/1284383078
+osm:w317582642,Altona,,,osm_other,1,"shade, trees, seating, equipment",,407.0,53.570685,9.840436,https://www.openstreetmap.org/way/317582642
+osm:w1222613352,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,406.0,53.561563,9.906126,https://www.openstreetmap.org/way/1222613352
+osm:w233229758,Altona,,,osm_other,1,"shade, trees, seating, equipment",,391.0,53.556372,9.957359,https://www.openstreetmap.org/way/233229758
+osm:w1011248413,Eimsbüttel,,,osm_other,1,"shade, trees, wheelchair, equipment",,383.0,53.619183,9.899252,https://www.openstreetmap.org/way/1011248413
+osm:w200658641,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,364.0,53.591973,9.85387,https://www.openstreetmap.org/way/200658641
+osm:w29388144,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,354.0,53.58828,9.86071,https://www.openstreetmap.org/way/29388144
+osm:w911362479,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,350.0,53.547571,9.94879,https://www.openstreetmap.org/way/911362479
+osm:w1298188079,Altona,,Holstenring,both,1,"shade, seating, wheelchair, equipment",,346.0,53.55229,9.920426,https://www.openstreetmap.org/way/1298188079
+osm:w343190975,Altona,,Sülldorfer Landstraße,both,1,"shade, trees, seating, equipment",,343.0,53.578219,9.779414,https://www.openstreetmap.org/way/343190975
+osm:w959191689,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,340.0,53.611407,9.900248,https://www.openstreetmap.org/way/959191689
+osm:w76964940,Altona,,Am Felde,both,1,"shade, seating, wheelchair, equipment",,319.0,53.55055,9.932603,https://www.openstreetmap.org/way/76964940
+osm:w102306555,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,317.0,53.59097,9.860184,https://www.openstreetmap.org/way/102306555
+osm:w158423541,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,313.0,53.583432,9.949658,https://www.openstreetmap.org/way/158423541
+osm:w169248072,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,299.0,53.585252,9.949279,https://www.openstreetmap.org/way/169248072
+osm:w200742244,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,291.0,53.591267,9.858839,https://www.openstreetmap.org/way/200742244
+osm:w183471469,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,284.0,53.585643,9.853044,https://www.openstreetmap.org/way/183471469
+osm:w173267407,Altona,,Achtern Styg - Blomkamp,both,1,"shade, seating, wheelchair, equipment",,282.0,53.579696,9.8676,https://www.openstreetmap.org/way/173267407
+osm:w180398002,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,270.0,53.582671,9.805888,https://www.openstreetmap.org/way/180398002
+osm:w54521787,Eimsbüttel,Spielplatz Henry-Vahl-Park,,osm_park,1,"shade, trees, wheelchair, equipment",,268.0,53.576628,9.953238,https://www.openstreetmap.org/way/54521787
+osm:w120006220,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",,266.0,53.622992,9.891784,https://www.openstreetmap.org/way/120006220
+osm:r14358213,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,252.0,53.566842,9.89602,https://www.openstreetmap.org/relation/14358213
+osm:w182384127,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,251.0,53.586415,9.853192,https://www.openstreetmap.org/way/182384127
+osm:w37554681,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,249.0,53.583726,9.949549,https://www.openstreetmap.org/way/37554681
+osm:w120115814,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",,246.0,53.62091,9.892535,https://www.openstreetmap.org/way/120115814
+osm:w521316149,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,246.0,53.612306,9.900781,https://www.openstreetmap.org/way/521316149
+osm:w68314507,Altona,,,osm_other,1,"shade, trees, seating, equipment",,240.0,53.594895,9.870899,https://www.openstreetmap.org/way/68314507
+osm:w200661666,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,240.0,53.589741,9.851877,https://www.openstreetmap.org/way/200661666
+osm:w631879162,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,237.0,53.587631,9.952955,https://www.openstreetmap.org/way/631879162
+osm:w186799297,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,233.0,53.59022,9.846224,https://www.openstreetmap.org/way/186799297
+osm:w458943197,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,231.0,53.56881,9.852137,https://www.openstreetmap.org/way/458943197
+osm:w1002414270,Eimsbüttel,,,osm_park,1,"shade, trees, seating, wheelchair",,221.0,53.605676,9.901572,https://www.openstreetmap.org/way/1002414270
+osm:w1116617096,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,219.0,53.58681,9.849881,https://www.openstreetmap.org/way/1116617096
+osm:w1247565328,Eimsbüttel,,Amandastraße - Margaretenstraße,both,1,"shade, trees, wheelchair, equipment",,217.0,53.566048,9.96426,https://www.openstreetmap.org/way/1247565328
+osm:w824371219,Altona,,Hospitalstraße - Karl-Wolff-Straße,both,1,"shade, seating, wheelchair, equipment",,215.0,53.55665,9.948725,https://www.openstreetmap.org/way/824371219
+osm:w57841674,Eimsbüttel,,,osm_park,1,"shade, trees, seating, equipment",,214.0,53.633726,9.899797,https://www.openstreetmap.org/way/57841674
+osm:w218932186,Eimsbüttel,,Eimsbütteler Marktplatz,both,1,"shade, seating, wheelchair, equipment",,204.0,53.572526,9.948667,https://www.openstreetmap.org/way/218932186
+osm:w928301534,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,204.0,53.592448,9.950517,https://www.openstreetmap.org/way/928301534
+osm:w1216205440,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,204.0,53.548131,9.954243,https://www.openstreetmap.org/way/1216205440
+osm:w218667102,Eimsbüttel,,Eimsbütteler Marktplatz,both,1,"shade, seating, wheelchair, equipment",,200.0,53.572661,9.949018,https://www.openstreetmap.org/way/218667102
+osm:w448851890,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,196.0,53.568046,9.869483,https://www.openstreetmap.org/way/448851890
+osm:w611794119,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,194.0,53.585906,9.831701,https://www.openstreetmap.org/way/611794119
+osm:w637203623,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,194.0,53.573558,9.867141,https://www.openstreetmap.org/way/637203623
+osm:w61455574,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,191.0,53.583306,9.94945,https://www.openstreetmap.org/way/61455574
+osm:w1387597143,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,191.0,53.60838,9.907077,https://www.openstreetmap.org/way/1387597143
+osm:w651921572,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,189.0,53.595859,9.930942,https://www.openstreetmap.org/way/651921572
+osm:w831442909,Eimsbüttel,,Eimsbütteler Marktplatz,both,1,"shade, seating, wheelchair, equipment",,187.0,53.572983,9.947641,https://www.openstreetmap.org/way/831442909
+osm:w1277648347,Altona,,,osm_park,1,"shade, seating, wheelchair, equipment",,164.0,53.561316,9.794924,https://www.openstreetmap.org/way/1277648347
+osm:w1396074812,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,153.0,53.559455,9.914925,https://www.openstreetmap.org/way/1396074812
+osm:w119378185,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",,147.0,53.620531,9.890975,https://www.openstreetmap.org/way/119378185
+osm:w28205204,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,143.0,53.563299,9.91773,https://www.openstreetmap.org/way/28205204
+osm:w343190976,Altona,,Sülldorfer Landstraße,both,1,"shade, trees, seating, equipment",,142.0,53.578627,9.779057,https://www.openstreetmap.org/way/343190976
+osm:w67713206,Altona,,Von-Sauer-Straße,both,1,"shade, seating, wheelchair, equipment",,141.0,53.567341,9.901726,https://www.openstreetmap.org/way/67713206
+osm:w1000353120,Altona,,Palmaille,both,1,"shade, trees, seating, wheelchair",,137.0,53.545657,9.936252,https://www.openstreetmap.org/way/1000353120
+osm:w364808636,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,136.0,53.577884,9.949163,https://www.openstreetmap.org/way/364808636
+osm:w303371276,Altona,,Immenbusch,both,1,"shade, seating, wheelchair, equipment",,135.0,53.587725,9.856335,https://www.openstreetmap.org/way/303371276
+osm:w118148340,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,133.0,53.609623,9.906586,https://www.openstreetmap.org/way/118148340
+osm:w218667103,Eimsbüttel,,Eimsbütteler Marktplatz,both,1,"shade, seating, wheelchair, equipment",,124.0,53.572391,9.948992,https://www.openstreetmap.org/way/218667103
+osm:w362487885,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,121.0,53.573922,9.946821,https://www.openstreetmap.org/way/362487885
+osm:w448851891,Altona,,,osm_other,1,"shade, trees, wheelchair, equipment",,120.0,53.569014,9.867451,https://www.openstreetmap.org/way/448851891
+osm:w1157946635,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",,120.0,53.59033,9.953003,https://www.openstreetmap.org/way/1157946635
+osm:w1208466690,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,116.0,53.546239,9.952374,https://www.openstreetmap.org/way/1208466690
+osm:w1279412956,Eimsbüttel,,,osm_park,1,"shade, seating, wheelchair, equipment",,114.0,53.640933,9.94145,https://www.openstreetmap.org/way/1279412956
+osm:w963558178,Altona,,,osm_other,1,"shade, trees, wheelchair, equipment",,108.0,53.585217,9.83168,https://www.openstreetmap.org/way/963558178
+osm:w447915479,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,107.0,53.588456,9.855031,https://www.openstreetmap.org/way/447915479
+osm:w120115809,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",,102.0,53.621692,9.89116,https://www.openstreetmap.org/way/120115809
+osm:w200742246,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,94.0,53.591568,9.857396,https://www.openstreetmap.org/way/200742246
+osm:w1457814450,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",,89.0,53.591383,9.954044,https://www.openstreetmap.org/way/1457814450
+osm:w186811575,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,85.0,53.584321,9.851426,https://www.openstreetmap.org/way/186811575
+osm:w446317651,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,80.0,53.590607,9.85062,https://www.openstreetmap.org/way/446317651
+osm:w184329927,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",,79.0,53.585982,9.85308,https://www.openstreetmap.org/way/184329927
+osm:w1245572040,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",,79.0,53.619873,9.903585,https://www.openstreetmap.org/way/1245572040
+osm:w636805900,Eimsbüttel,Spielplatz König-Heinrich-Weg,König-Heinrich-Weg,both,1,"shade, seating, wheelchair, equipment",,74.0,53.626187,9.95548,https://www.openstreetmap.org/way/636805900
+osm:w139248880,Eimsbüttel,,Olloweg,both,1,"shade, seating, wheelchair, equipment",,72.0,53.603191,9.915863,https://www.openstreetmap.org/way/139248880
+osm:w718195035,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",,72.0,53.588832,9.9565,https://www.openstreetmap.org/way/718195035
+osm:w833159590,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",,68.0,53.591225,9.956799,https://www.openstreetmap.org/way/833159590
+osm:w1318794369,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",,62.0,53.589912,9.953013,https://www.openstreetmap.org/way/1318794369
+osm:w80937289,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",,59.0,53.590098,9.9535,https://www.openstreetmap.org/way/80937289
+osm:w970178609,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",,54.0,53.57581,9.939123,https://www.openstreetmap.org/way/970178609
+osm:w838378019,Altona,,Gählerstraße,both,1,"shade, seating, wheelchair, equipment",,48.0,53.555567,9.952997,https://www.openstreetmap.org/way/838378019
+osm:w129118870,Altona,,,osm_other,1,"shade, trees, seating, equipment",,45.0,53.572249,9.756152,https://www.openstreetmap.org/way/129118870
+osm:w1318794368,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",,41.0,53.589855,9.952911,https://www.openstreetmap.org/way/1318794368
+osm:w1137054802,Altona,,,osm_other,1,"shade, trees, seating, wheelchair",,39.0,53.557981,9.904056,https://www.openstreetmap.org/way/1137054802
+osm:w1001906711,Altona,,,osm_park,1,"shade, seating, wheelchair, equipment",,31.0,53.549626,9.935227,https://www.openstreetmap.org/way/1001906711
+osm:w62306805,Eimsbüttel,,,osm_park,1,"shade, seating, wheelchair, equipment",,13.0,53.571716,9.954052,https://www.openstreetmap.org/way/62306805
+osm:n309795402,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.562689,9.917752,https://www.openstreetmap.org/node/309795402
+osm:n687710192,Eimsbüttel,,Heilwigstraße - St.-Benedict-Straße,both,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.583683,9.99413,https://www.openstreetmap.org/node/687710192
+osm:n1014923812,Eimsbüttel,,Burgwedel,both,1,"shade, trees, seating, equipment",mapped as a point only,,53.637086,9.916196,https://www.openstreetmap.org/node/1014923812
+osm:n1327215134,Altona,,Schulterblatt 75 - Lippmannstraße,both,1,"shade, trees, seating, equipment",mapped as a point only,,53.561686,9.96036,https://www.openstreetmap.org/node/1327215134
+osm:n1442947589,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.605774,9.906135,https://www.openstreetmap.org/node/1442947589
+osm:n1446358643,Altona,,,osm_other,1,"shade, trees, wheelchair, equipment",mapped as a point only,,53.57584,9.831497,https://www.openstreetmap.org/node/1446358643
+osm:n1467585103,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.59137,9.935711,https://www.openstreetmap.org/node/1467585103
+osm:n1467585112,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.589836,9.936338,https://www.openstreetmap.org/node/1467585112
+osm:n1497157333,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.553468,9.955262,https://www.openstreetmap.org/node/1497157333
+osm:n1504958432,Altona,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.553572,9.921266,https://www.openstreetmap.org/node/1504958432
+osm:n1504958436,Altona,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.553511,9.920643,https://www.openstreetmap.org/node/1504958436
+osm:n1509277375,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.644422,9.915906,https://www.openstreetmap.org/node/1509277375
+osm:n1511337273,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.546884,9.949699,https://www.openstreetmap.org/node/1511337273
+osm:n1511349631,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.546731,9.949255,https://www.openstreetmap.org/node/1511349631
+osm:n1511940559,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.546826,9.946951,https://www.openstreetmap.org/node/1511940559
+osm:n1516403302,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.545788,9.951267,https://www.openstreetmap.org/node/1516403302
+osm:n1571194528,Altona,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.546666,9.955338,https://www.openstreetmap.org/node/1571194528
+osm:n1598339902,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.555053,9.917236,https://www.openstreetmap.org/node/1598339902
+osm:n1598339904,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.554282,9.917158,https://www.openstreetmap.org/node/1598339904
+osm:n1609905407,Altona,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.555388,9.913783,https://www.openstreetmap.org/node/1609905407
+osm:n1641843508,Altona,,Bei der Friedenseiche,both,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.554196,9.940717,https://www.openstreetmap.org/node/1641843508
+osm:n1712770535,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.554007,9.955725,https://www.openstreetmap.org/node/1712770535
+osm:n1806261073,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.586418,9.949447,https://www.openstreetmap.org/node/1806261073
+osm:n1900580664,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.576379,9.830393,https://www.openstreetmap.org/node/1900580664
+osm:n1912933010,Altona,DRK-Spielhafen,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.59353,9.852206,https://www.openstreetmap.org/node/1912933010
+osm:n2232358369,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.575692,9.854597,https://www.openstreetmap.org/node/2232358369
+osm:n2262102899,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.571595,9.950042,https://www.openstreetmap.org/node/2262102899
+osm:n2378337813,Eimsbüttel,,,osm_other,1,"shade, trees, seating, wheelchair",mapped as a point only,,53.630377,9.947442,https://www.openstreetmap.org/node/2378337813
+osm:n3091447903,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.548059,9.930669,https://www.openstreetmap.org/node/3091447903
+osm:n5153214333,Altona,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.581766,9.785063,https://www.openstreetmap.org/node/5153214333
+osm:n5153214361,Altona,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.583674,9.782388,https://www.openstreetmap.org/node/5153214361
+osm:n5900359264,Eimsbüttel,,Döhrntwiete - Emil-Andresen-Straße,both,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.594989,9.954403,https://www.openstreetmap.org/node/5900359264
+osm:n6036473830,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.547684,9.953823,https://www.openstreetmap.org/node/6036473830
+osm:n6162375711,Eimsbüttel,Kletterwäldchen,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.616139,9.941283,https://www.openstreetmap.org/node/6162375711
+osm:n7016152611,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.628591,9.910808,https://www.openstreetmap.org/node/7016152611
+osm:n7406523271,Eimsbüttel,,,osm_other,1,"shade, trees, seating, equipment",mapped as a point only,,53.593327,9.953191,https://www.openstreetmap.org/node/7406523271
+osm:n8567296837,Eimsbüttel,,Am Ziegelteich,both,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.57478,9.933931,https://www.openstreetmap.org/node/8567296837
+osm:n8725014005,Eimsbüttel,,,osm_other,1,"shade, trees, wheelchair, equipment",mapped as a point only,,53.608733,9.899126,https://www.openstreetmap.org/node/8725014005
+osm:n9008571584,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.638331,9.917924,https://www.openstreetmap.org/node/9008571584
+osm:n9386122537,Eimsbüttel,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.593813,9.956866,https://www.openstreetmap.org/node/9386122537
+osm:n12921631142,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.559075,9.91479,https://www.openstreetmap.org/node/12921631142
+osm:n12921784907,Altona,,,osm_other,1,"shade, trees, wheelchair, equipment",mapped as a point only,,53.558482,9.917172,https://www.openstreetmap.org/node/12921784907
+osm:n12921800641,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.557665,9.916117,https://www.openstreetmap.org/node/12921800641
+osm:n12921840208,Altona,,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.557622,9.91628,https://www.openstreetmap.org/node/12921840208
+osm:n13289605668,Eimsbüttel,Spielplatz,,osm_other,1,"shade, seating, wheelchair, equipment",mapped as a point only,,53.598172,9.938029,https://www.openstreetmap.org/node/13289605668
+osm:w25914919,Altona,,Unzerstraße,both,2,"shade, seating, equipment",,8866.0,53.552562,9.95239,https://www.openstreetmap.org/way/25914919
+osm:w32388139,Altona,,Immenbusch,both,2,"shade, seating, wheelchair",,7078.0,53.58881,9.852689,https://www.openstreetmap.org/way/32388139
+osm:w186811921,Altona,,Feldweg 55,both,2,"shade, seating, equipment",,6310.0,53.585256,9.846952,https://www.openstreetmap.org/way/186811921
+osm:w32791029,Altona,Aktivspielplatz Bahrenfeld,,osm_other,2,"shade, seating, equipment",,6016.0,53.560173,9.901468,https://www.openstreetmap.org/way/32791029
+osm:w148796457,Eimsbüttel,,Baumacker Nr. 10,both,2,"shade, trees, equipment",,5413.0,53.615658,9.899747,https://www.openstreetmap.org/way/148796457
+osm:w32635780,Eimsbüttel,,Wiebelstraße,both,2,"shade, seating, equipment",,5157.0,53.604368,9.907066,https://www.openstreetmap.org/way/32635780
+osm:w96260084,Altona,Klövensteen,,osm_other,2,"shade, seating, equipment",,5073.0,53.599573,9.76758,https://www.openstreetmap.org/way/96260084
+osm:w30888851,Altona,Ophagenspielplatz (OPI),Ophagen,both,2,"shade, seating, equipment",,4422.0,53.56902,9.947505,https://www.openstreetmap.org/way/30888851
+osm:w33004914,Eimsbüttel,,,osm_other,2,"shade, wheelchair, equipment",,4344.0,53.642624,9.939928,https://www.openstreetmap.org/way/33004914
+osm:w96298884,Altona,,Sülldorfer Landstraße,both,2,"shade, seating, equipment",,3853.0,53.578545,9.778468,https://www.openstreetmap.org/way/96298884
+osm:w31763019,Altona,,Bei der Osterkirche,both,2,"shade, seating, equipment",,3475.0,53.554861,9.933045,https://www.openstreetmap.org/way/31763019
+osm:w31467864,Altona,,Am Pflug - Eulenstraße,both,2,"shade, seating, equipment",,3409.0,53.550142,9.928843,https://www.openstreetmap.org/way/31467864
+osm:w37910454,Altona,,Schröderstiftstraße,both,2,"shade, seating, equipment",,3242.0,53.565988,9.9717,https://www.openstreetmap.org/way/37910454
+osm:w33736735,Eimsbüttel,Spielplatz Telemannstraße,Telemannstraße 40 - 44,both,2,"shade, wheelchair, equipment",,3151.0,53.579273,9.954103,https://www.openstreetmap.org/way/33736735
+osm:w24898414,Altona,Abenteuerspielplatz Ottensen SPIO e.V.,Am Born - Bergiusstraße,both,2,"shade, seating, equipment",,3079.0,53.552785,9.926469,https://www.openstreetmap.org/way/24898414
+osm:w142768215,Altona,BaSchu-Spielplatz,Schulterblatt 66,both,2,"shade, trees, seating",,3060.0,53.561677,9.963603,https://www.openstreetmap.org/way/142768215
+osm:w362620874,Eimsbüttel,Abenteuerspielplatz Eimsbüttel-Nord,Alter Weg - Högenstraße,both,2,"shade, seating, equipment",,2646.0,53.579671,9.937967,https://www.openstreetmap.org/way/362620874
+osm:w32869613,Eimsbüttel,,Bei St. Johannis,both,2,"shade, seating, equipment",,2625.0,53.57122,9.994549,https://www.openstreetmap.org/way/32869613
+osm:w51396800,Altona,,Bahrenfelder Straße,both,2,"shade, seating, equipment",,2481.0,53.557537,9.928739,https://www.openstreetmap.org/way/51396800
+osm:w1214088194,Eimsbüttel,,Wunderbrunnen,both,2,"shade, wheelchair, equipment",,2454.0,53.645152,9.925356,https://www.openstreetmap.org/way/1214088194
+osm:w56411333,Eimsbüttel,Spielplatz Emilienstraße,Emilienstraße,both,2,"shade, seating, equipment",,2259.0,53.572331,9.954201,https://www.openstreetmap.org/way/56411333
+osm:w487498819,Eimsbüttel,Spielplatz Eidelstedter Weg,Eidelstedter Weg - Wiesingerweg,both,2,"shade, trees, equipment",,2256.0,53.58133,9.957486,https://www.openstreetmap.org/way/487498819
+osm:w322669566,Altona,,Langbehnstraße,both,2,"shade, seating, equipment",,2221.0,53.566566,9.913394,https://www.openstreetmap.org/way/322669566
+osm:w39825519,Eimsbüttel,Spielplatz Meißnerstraße,Meißnerstraße,both,2,"shade, wheelchair, equipment",,2175.0,53.57021,9.960355,https://www.openstreetmap.org/way/39825519
+osm:w27410409,Eimsbüttel,Scheideweg Spielplatz,Scheideweg - Tresckowstraße,both,2,"shade, seating, equipment",,2008.0,53.577039,9.965598,https://www.openstreetmap.org/way/27410409
+osm:w87762321,Altona,,,osm_park,2,"shade, wheelchair, equipment",,1914.0,53.565679,9.942463,https://www.openstreetmap.org/way/87762321
+osm:w106911894,Altona,,Vorhornweg,both,2,"shade, seating, wheelchair",,1857.0,53.589756,9.886694,https://www.openstreetmap.org/way/106911894
+osm:w36352721,Altona,B-you Aktivplatz,Königstraße - Nobistor,both,2,"shade, seating, equipment",,1754.0,53.54981,9.951631,https://www.openstreetmap.org/way/36352721
+osm:w136964942,Eimsbüttel,,Hansastraße,both,2,"shade, seating, equipment",,1712.0,53.57401,9.989546,https://www.openstreetmap.org/way/136964942
+osm:w39211049,Eimsbüttel,Spielplatz Beim Schlump,Beim Schlump - Koopstraße,both,2,"shade, wheelchair, equipment",,1643.0,53.570084,9.97469,https://www.openstreetmap.org/way/39211049
+osm:w63529981,Altona,,Mühlenberg,both,2,"shade, trees, wheelchair",,1565.0,53.557744,9.823621,https://www.openstreetmap.org/way/63529981
+osm:w1383587280,Altona,,Pepermölenbek,both,2,"shade, wheelchair, equipment",,1480.0,53.547904,9.954623,https://www.openstreetmap.org/way/1383587280
+osm:w718217461,Altona,,Harkortstraße,both,2,"shade, seating, wheelchair",,1409.0,53.560588,9.939318,https://www.openstreetmap.org/way/718217461
+osm:w23444558,Eimsbüttel,Spielplatz Am Ziegelteich,Am Ziegelteich,both,2,"shade, wheelchair, equipment",,1373.0,53.574375,9.933849,https://www.openstreetmap.org/way/23444558
+osm:w31856325,Altona,,Bei der Rolandsmühle,both,2,"shade, seating, equipment",,1360.0,53.550302,9.912925,https://www.openstreetmap.org/way/31856325
+osm:w32742814,Eimsbüttel,Heymannstraßen-Spielplatz,Heymannstraße,both,2,"shade, seating, equipment",,1357.0,53.572315,9.971703,https://www.openstreetmap.org/way/32742814
+osm:w29690401,Eimsbüttel,,Brockmannsweg,both,2,"shade, seating, equipment",,1354.0,53.565344,9.97549,https://www.openstreetmap.org/way/29690401
+osm:w54461834,Eimsbüttel,,Gärtnerstraße - Heckscherstraße,both,2,"shade, seating, equipment",,1301.0,53.581958,9.964885,https://www.openstreetmap.org/way/54461834
+osm:w337045840,Eimsbüttel,Spielplatz Moltkestraße,Moltkestraße,both,2,"shade, seating, equipment",,1283.0,53.579686,9.97218,https://www.openstreetmap.org/way/337045840
+osm:w1160824985,Eimsbüttel,Spielplatz Graf-Anton-Weg,Graf-Anton-Weg,both,2,"shade, seating, wheelchair",,1256.0,53.626647,9.948304,https://www.openstreetmap.org/way/1160824985
+osm:w646568134,Altona,,,osm_other,2,"shade, trees, equipment",,1202.0,53.57955,9.792977,https://www.openstreetmap.org/way/646568134
+osm:w34944435,Altona,,Behnstraße,both,2,"shade, seating, equipment",,1177.0,53.547533,9.942568,https://www.openstreetmap.org/way/34944435
+osm:w32352790,Altona,,Carsten-Rehder-Straße - Köhlbrandtreppe,both,2,"shade, wheelchair, equipment",,1176.0,53.545135,9.945876,https://www.openstreetmap.org/way/32352790
+osm:w666945398,Altona,,Sülldorfer Kirchenweg,both,2,"shade, wheelchair, equipment",,1170.0,53.56769,9.809927,https://www.openstreetmap.org/way/666945398
+osm:w133202655,Eimsbüttel,Scheideweg Kleinkind-Spielplatz,Scheideweg,both,2,"shade, seating, equipment",,1126.0,53.577599,9.966113,https://www.openstreetmap.org/way/133202655
+osm:w560496494,Altona,,Lisztstraße,both,2,"shade, seating, equipment",,969.0,53.552689,9.915094,https://www.openstreetmap.org/way/560496494
+osm:w38109118,Altona,,Kaistraße,both,2,"shade, seating, equipment",,901.0,53.545549,9.928333,https://www.openstreetmap.org/way/38109118
+osm:w624777784,Eimsbüttel,,Lohkoppelweg,both,2,"shade, seating, equipment",,894.0,53.592166,9.956687,https://www.openstreetmap.org/way/624777784
+osm:w50760535,Eimsbüttel,Spielplatz Amandastraße-Margaretenstraße,Amandastraße - Margaretenstraße,both,2,"shade, wheelchair, equipment",,869.0,53.56579,9.964682,https://www.openstreetmap.org/way/50760535
+osm:r9765272,Altona,,Esmarchstraße - Billrothstraße,both,2,"shade, seating, equipment",,814.0,53.554389,9.94524,https://www.openstreetmap.org/relation/9765272
+osm:w63788470,Eimsbüttel,,,osm_other,2,"shade, trees, wheelchair",,791.0,53.58314,9.925949,https://www.openstreetmap.org/way/63788470
+osm:w184595121,Altona,Libellenplatz (Leselibelle),,osm_other,2,"shade, seating, equipment",,779.0,53.586102,9.849134,https://www.openstreetmap.org/way/184595121
+osm:w352146120,Altona,,Bunsenstraße,both,2,"shade, seating, equipment",,768.0,53.557832,9.923453,https://www.openstreetmap.org/way/352146120
+osm:w325811284,Eimsbüttel,Spielplatz Telemannstraße,Telemannstraße 29 - 31,both,2,"shade, seating, equipment",,736.0,53.579798,9.953557,https://www.openstreetmap.org/way/325811284
+osm:w56204666,Eimsbüttel,,Gärtnerstraße - Heckscherstraße,both,2,"shade, seating, equipment",,684.0,53.581419,9.964888,https://www.openstreetmap.org/way/56204666
+osm:w838344517,Altona,,Goetheallee,both,2,"shade, seating, wheelchair",,681.0,53.554988,9.939114,https://www.openstreetmap.org/way/838344517
+osm:w903007763,Altona,,Hospitalstraße - Karl-Wolff-Straße,both,2,"shade, wheelchair, equipment",,660.0,53.557067,9.949138,https://www.openstreetmap.org/way/903007763
+osm:w152623345,Altona,,Groß Flottbeker Straße,both,2,"shade, seating, equipment",,658.0,53.567036,9.878343,https://www.openstreetmap.org/way/152623345
+osm:w37402360,Eimsbüttel,,Brahmsallee,both,2,"shade, seating, equipment",,649.0,53.577291,9.981268,https://www.openstreetmap.org/way/37402360
+osm:w875087761,Altona,,Norderreihe - Wohlers Allee,both,2,"shade, wheelchair, equipment",,641.0,53.557712,9.95248,https://www.openstreetmap.org/way/875087761
+osm:w658313884,Altona,,Gählerstraße - Holstenstraße,both,2,"shade, seating, wheelchair",,617.0,53.554837,9.95271,https://www.openstreetmap.org/way/658313884
+osm:w133151031,Altona,,Osteresch,both,2,"shade, seating, wheelchair",,611.0,53.570728,9.881885,https://www.openstreetmap.org/way/133151031
+osm:w139885541,Altona,,,osm_other,2,"shade, trees, seating",,596.0,53.583387,9.808574,https://www.openstreetmap.org/way/139885541
+osm:w243353261,Altona,,Fischers Allee,both,2,"shade, wheelchair, equipment",,593.0,53.547231,9.921782,https://www.openstreetmap.org/way/243353261
+osm:w27480139,Eimsbüttel,Piratenspielplatz Goebenbrücke,Kaiser-Friedrich-Ufer,both,2,"shade, seating, wheelchair",,591.0,53.574125,9.967094,https://www.openstreetmap.org/way/27480139
+osm:w807976032,Altona,,Lyserstraße,both,2,"shade, trees, wheelchair",,579.0,53.562284,9.90457,https://www.openstreetmap.org/way/807976032
+osm:w53101565,Altona,,August-Kirch-Straße,both,2,"shade, trees, wheelchair",,564.0,53.571422,9.900637,https://www.openstreetmap.org/way/53101565
+osm:w1396080279,Altona,,,osm_other,2,"shade, trees, wheelchair",,515.0,53.55864,9.917656,https://www.openstreetmap.org/way/1396080279
+osm:w102446927,Eimsbüttel,,König-Heinrich-Weg - Garstedter Weg 21,both,2,"shade, seating, equipment",,483.0,53.624842,9.954518,https://www.openstreetmap.org/way/102446927
+osm:w1313840104,Eimsbüttel,,,osm_other,2,"shade, seating, wheelchair",,469.0,53.646951,9.906403,https://www.openstreetmap.org/way/1313840104
+osm:w51328151,Altona,,Sternstraße - Beckstraße,both,2,"shade, seating, equipment",,448.0,53.558897,9.966681,https://www.openstreetmap.org/way/51328151
+osm:w1104113390,Eimsbüttel,,,osm_other,2,"shade, seating, wheelchair",,444.0,53.586428,9.964554,https://www.openstreetmap.org/way/1104113390
+osm:w1457814451,Eimsbüttel,,,osm_other,2,"shade, trees, wheelchair",,416.0,53.591471,9.953532,https://www.openstreetmap.org/way/1457814451
+osm:w1271155144,Altona,,,osm_other,2,"shade, wheelchair, equipment",,411.0,53.558563,9.915718,https://www.openstreetmap.org/way/1271155144
+osm:w807715874,Eimsbüttel,,,osm_other,2,"shade, seating, wheelchair",,402.0,53.593297,9.950423,https://www.openstreetmap.org/way/807715874
+osm:w68314618,Altona,Seilbahn,Böverstland,both,2,"shade, seating, wheelchair",,345.0,53.595632,9.871902,https://www.openstreetmap.org/way/68314618
+osm:w141179730,Altona,,Hochrad,both,2,"shade, seating, wheelchair",,344.0,53.554223,9.868315,https://www.openstreetmap.org/way/141179730
+osm:w199250971,Altona,,,osm_other,2,"shade, seating, equipment",,336.0,53.553016,9.944254,https://www.openstreetmap.org/way/199250971
+osm:w1023939920,Altona,,An der Kleiderkasse,both,2,"shade, seating, wheelchair",,330.0,53.560427,9.936739,https://www.openstreetmap.org/way/1023939920
+osm:w1321424711,Altona,,,osm_other,2,"shade, seating, equipment",,314.0,53.552411,9.929221,https://www.openstreetmap.org/way/1321424711
+osm:w186803167,Altona,,,osm_other,2,"shade, seating, equipment",,305.0,53.589269,9.848522,https://www.openstreetmap.org/way/186803167
+osm:w108067035,Eimsbüttel,,,osm_other,2,"shade, seating, equipment",,295.0,53.600972,9.958566,https://www.openstreetmap.org/way/108067035
+osm:w69245983,Altona,,Vorhornweg,both,2,"shade, seating, wheelchair",,289.0,53.590006,9.885935,https://www.openstreetmap.org/way/69245983
+osm:w525602247,Eimsbüttel,,,osm_other,2,"shade, wheelchair, equipment",,272.0,53.631507,9.967478,https://www.openstreetmap.org/way/525602247
+osm:w418365068,Altona,,Gählerstraße,both,2,"shade, seating, wheelchair",,271.0,53.556364,9.953273,https://www.openstreetmap.org/way/418365068
+osm:w1160911383,Altona,,,osm_other,2,"shade, trees, wheelchair",,267.0,53.574763,9.859594,https://www.openstreetmap.org/way/1160911383
+osm:w362816236,Eimsbüttel,,,osm_other,2,"shade, wheelchair, equipment",,232.0,53.577798,9.938312,https://www.openstreetmap.org/way/362816236
+osm:w807744090,Eimsbüttel,,,osm_other,2,"shade, seating, wheelchair",,226.0,53.593804,9.950412,https://www.openstreetmap.org/way/807744090
+osm:w1022395469,Eimsbüttel,,Vogt-Wells-Straße,both,2,"shade, seating, wheelchair",,221.0,53.598833,9.959287,https://www.openstreetmap.org/way/1022395469
+osm:w108065558,Eimsbüttel,,,osm_other,2,"shade, wheelchair, equipment",,210.0,53.595195,9.950354,https://www.openstreetmap.org/way/108065558
+osm:w1241620364,Eimsbüttel,,,osm_other,2,"shade, wheelchair, equipment",,210.0,53.609078,9.908093,https://www.openstreetmap.org/way/1241620364
+osm:w1272868668,Eimsbüttel,,,osm_park,2,"shade, seating, wheelchair",,185.0,53.596912,9.923461,https://www.openstreetmap.org/way/1272868668
+osm:w76981565,Altona,,Stangestraße,both,2,"shade, seating, equipment",,172.0,53.551667,9.931796,https://www.openstreetmap.org/way/76981565
+osm:w653278478,Eimsbüttel,,,osm_park,2,"shade, wheelchair, equipment",,155.0,53.593853,9.948687,https://www.openstreetmap.org/way/653278478
+osm:w1028494319,Eimsbüttel,,,osm_other,2,"shade, trees, wheelchair",,149.0,53.581416,9.932807,https://www.openstreetmap.org/way/1028494319
+osm:w1308568565,Eimsbüttel,,,osm_park,2,"shade, seating, wheelchair",,144.0,53.602283,9.92185,https://www.openstreetmap.org/way/1308568565
+osm:w1017594358,Eimsbüttel,,,osm_park,2,"shade, seating, wheelchair",,110.0,53.645692,9.948024,https://www.openstreetmap.org/way/1017594358
+osm:w68324560,Altona,,,osm_other,2,"shade, seating, equipment",,95.0,53.595712,9.869603,https://www.openstreetmap.org/way/68324560
+osm:w611797436,Altona,,,osm_other,2,"shade, seating, wheelchair",,77.0,53.586132,9.831648,https://www.openstreetmap.org/way/611797436
+osm:w1279412957,Eimsbüttel,,,osm_park,2,"shade, seating, wheelchair",,57.0,53.640621,9.941467,https://www.openstreetmap.org/way/1279412957
+osm:w1157527956,Eimsbüttel,,,osm_other,2,"shade, seating, wheelchair",,45.0,53.619317,9.95129,https://www.openstreetmap.org/way/1157527956
+osm:w1279968081,Eimsbüttel,,,osm_other,2,"shade, seating, wheelchair",,31.0,53.640426,9.947654,https://www.openstreetmap.org/way/1279968081
+osm:w1001906712,Altona,,,osm_park,2,"shade, seating, wheelchair",,25.0,53.549442,9.935137,https://www.openstreetmap.org/way/1001906712
+osm:n296168969,Eimsbüttel,,Grindelberg,both,2,"shade, seating, equipment",mapped as a point only,,53.573613,9.978392,https://www.openstreetmap.org/node/296168969
+osm:n401543777,Altona,,,osm_park,2,"shade, trees, seating",mapped as a point only,,53.598124,9.883502,https://www.openstreetmap.org/node/401543777
+osm:n663119199,Eimsbüttel,,Baumacker - Pflugacker,both,2,"shade, trees, equipment",mapped as a point only,,53.614739,9.899852,https://www.openstreetmap.org/node/663119199
+osm:n1284291671,Altona,,Adickesstraße,both,2,"shade, trees, wheelchair",mapped as a point only,,53.560083,9.890976,https://www.openstreetmap.org/node/1284291671
+osm:n1474017175,Altona,,Lyserstraße,both,2,"shade, seating, wheelchair",mapped as a point only,,53.562504,9.902916,https://www.openstreetmap.org/node/1474017175
+osm:n1490931860,Eimsbüttel,,,osm_other,2,"shade, seating, wheelchair",mapped as a point only,,53.589988,9.961308,https://www.openstreetmap.org/node/1490931860
+osm:n1511931890,Altona,,Struenseestraße,both,2,"shade, trees, equipment",mapped as a point only,,53.546764,9.944295,https://www.openstreetmap.org/node/1511931890
+osm:n1606363171,Altona,,Böcklinstraße - Cranachstraße,both,2,"shade, seating, equipment",mapped as a point only,,53.562968,9.888677,https://www.openstreetmap.org/node/1606363171
+osm:n1936730485,Altona,,,osm_park,2,"shade, seating, equipment",mapped as a point only,,53.547527,9.934305,https://www.openstreetmap.org/node/1936730485
+osm:n2202123607,Eimsbüttel,Spielplatz Kloksi,Schäferstraße,both,2,"shade, seating, equipment",mapped as a point only,,53.567898,9.966029,https://www.openstreetmap.org/node/2202123607
+osm:n2281157270,Eimsbüttel,,,osm_park,2,"shade, wheelchair, equipment",mapped as a point only,,53.602659,9.944573,https://www.openstreetmap.org/node/2281157270
+osm:n2721781547,Altona,,Johann-Mohr-Weg,both,2,"shade, seating, wheelchair",mapped as a point only,,53.55801,9.906095,https://www.openstreetmap.org/node/2721781547
+osm:n3777280112,Eimsbüttel,,Julius-Vosseler-Straße - Emil-Andresen-Straße,both,2,"shade, wheelchair, equipment",mapped as a point only,,53.592298,9.949236,https://www.openstreetmap.org/node/3777280112
+osm:n3988906759,Altona,,,osm_park,2,"shade, trees, equipment",mapped as a point only,,53.550589,9.940986,https://www.openstreetmap.org/node/3988906759
+osm:n6721535910,Altona,,Lyserstraße,both,2,"shade, seating, wheelchair",mapped as a point only,,53.562461,9.90317,https://www.openstreetmap.org/node/6721535910
+osm:n11915811997,Altona,,,osm_park,2,"shade, seating, equipment",mapped as a point only,,53.560593,9.950347,https://www.openstreetmap.org/node/11915811997
+osm:n12760467848,Eimsbüttel,,,osm_other,2,"shade, wheelchair, equipment",mapped as a point only,,53.571304,9.966922,https://www.openstreetmap.org/node/12760467848
+osm:n13142664102,Eimsbüttel,,Lindenallee,both,2,"shade, seating, wheelchair",mapped as a point only,,53.566244,9.959774,https://www.openstreetmap.org/node/13142664102
+osm:n13142671701,Eimsbüttel,,Lindenallee,both,2,"shade, seating, wheelchair",mapped as a point only,,53.566221,9.959873,https://www.openstreetmap.org/node/13142671701
+osm:w5373251,Altona,,Böttcherkamp,both,3,"shade, wheelchair",,9657.0,53.593737,9.845959,https://www.openstreetmap.org/way/5373251
+osm:w55228245,Altona,,Nansenstraße,both,3,"shade, wheelchair",,7289.0,53.580573,9.902877,https://www.openstreetmap.org/way/55228245
+osm:w1308565473,Eimsbüttel,Spielplatz Wegenkamp,Wegenkamp,both,3,"shade, wheelchair",,6091.0,53.603669,9.923689,https://www.openstreetmap.org/way/1308565473
+osm:w32945901,Eimsbüttel,Spielplatz Gustav-Falke-Straße,Garbestraße - Gustav-Falke-Straße,both,3,"shade, seating",,4284.0,53.569866,9.97001,https://www.openstreetmap.org/way/32945901
+osm:w25057035,Altona,,Hohenzollernring,both,3,"shade, trees",,4160.0,53.558191,9.918342,https://www.openstreetmap.org/way/25057035
+osm:w391875548,Eimsbüttel,Abenteuerspielplatz Linse,,osm_other,3,"shade, seating",,3789.0,53.583258,9.923895,https://www.openstreetmap.org/way/391875548
+osm:w335045531,Altona,,Lisztstraße,both,3,"shade, wheelchair",,3103.0,53.552698,9.914502,https://www.openstreetmap.org/way/335045531
+osm:w67713204,Altona,,Von-Sauer-Straße,both,3,"shade, wheelchair",,2958.0,53.567171,9.902444,https://www.openstreetmap.org/way/67713204
+osm:w33890345,Eimsbüttel,,Max-Zelck-Straße,both,3,"shade, wheelchair",,2843.0,53.620947,9.947259,https://www.openstreetmap.org/way/33890345
+osm:w562876155,Eimsbüttel,,Vogt-Kölln-Straße,both,3,"shade, wheelchair",,2820.0,53.600737,9.932109,https://www.openstreetmap.org/way/562876155
+osm:w32128720,Altona,,Celsiusweg,both,3,"shade, equipment",,2780.0,53.562866,9.923298,https://www.openstreetmap.org/way/32128720
+osm:w128070790,Altona,,Flaßbarg - Luckmoor,both,3,"shade, trees",,2777.0,53.594908,9.864365,https://www.openstreetmap.org/way/128070790
+osm:w77339730,Eimsbüttel,Spielplatz Alter Weg/Högenstraße,Alter Weg - Högenstraße,both,3,"shade, wheelchair",,2587.0,53.579214,9.937828,https://www.openstreetmap.org/way/77339730
+osm:w137433773,Eimsbüttel,Spielplatz Dschungel,Amandastraße,both,3,"shade, seating",,2352.0,53.565806,9.959995,https://www.openstreetmap.org/way/137433773
+osm:w33176440,Eimsbüttel,Spielplatz Sillemstraße,Sillemstraße,both,3,"shade, wheelchair",,2201.0,53.579061,9.943417,https://www.openstreetmap.org/way/33176440
+osm:w206581047,Eimsbüttel,,,osm_other,3,"shade, wheelchair",,2188.0,53.592208,9.917774,https://www.openstreetmap.org/way/206581047
+osm:w51931240,Eimsbüttel,Spielplatz Vogt-Kölln-Straße,,osm_other,3,"shade, wheelchair",,2173.0,53.609274,9.927518,https://www.openstreetmap.org/way/51931240
+osm:w69560294,Altona,,Heidrehmen,both,3,"shade, wheelchair",,2002.0,53.576368,9.814223,https://www.openstreetmap.org/way/69560294
+osm:w37910299,Altona,,Dänenweg,both,3,"shade, seating",,1894.0,53.565184,9.968216,https://www.openstreetmap.org/way/37910299
+osm:w175632306,Eimsbüttel,,,osm_park,3,"shade, wheelchair",,1701.0,53.640682,9.943475,https://www.openstreetmap.org/way/175632306
+osm:w26493264,Altona,,Elbchaussee 100 - 110,both,3,"shade, wheelchair",,1464.0,53.546996,9.920326,https://www.openstreetmap.org/way/26493264
+osm:w22712351,Eimsbüttel,Spielplatz in der Stellinger Schweiz,Deelwisch,both,3,"shade, wheelchair",,1335.0,53.599831,9.940744,https://www.openstreetmap.org/way/22712351
+osm:w24898222,Altona,,Am Born - Bergiusstraße,both,3,"shade, equipment",,1171.0,53.552654,9.925668,https://www.openstreetmap.org/way/24898222
+osm:w1486025866,Eimsbüttel,,Max-Zelck-Straße,both,3,"shade, wheelchair",,1148.0,53.620874,9.947251,https://www.openstreetmap.org/way/1486025866
+osm:w293589559,Eimsbüttel,,Grandweg,both,3,"shade, wheelchair",,1140.0,53.589293,9.96487,https://www.openstreetmap.org/way/293589559
+osm:w202332493,Eimsbüttel,,Niekampsweg,both,3,"shade, equipment",,1100.0,53.610757,9.895539,https://www.openstreetmap.org/way/202332493
+osm:w154225880,Eimsbüttel,Spielplatz Unna-Park,Heußweg,both,3,"shade, wheelchair",,1036.0,53.575609,9.95076,https://www.openstreetmap.org/way/154225880
+osm:w244627371,Eimsbüttel,,,osm_other,3,"shade, wheelchair",,1000.0,53.589303,9.964285,https://www.openstreetmap.org/way/244627371
+osm:w294928690,Altona,,,osm_other,3,"shade, wheelchair",,979.0,53.561689,9.939305,https://www.openstreetmap.org/way/294928690
+osm:w33441500,Eimsbüttel,Spielplatz Luruper Weg,Luruper Weg,both,3,"shade, wheelchair",,836.0,53.580661,9.943342,https://www.openstreetmap.org/way/33441500
+osm:w1192924498,Eimsbüttel,,Möhlenort - Lampestraße,both,3,"shade, equipment",,821.0,53.599403,9.905257,https://www.openstreetmap.org/way/1192924498
+osm:w1565180727,Altona,,Thomasstraße,both,3,"shade, wheelchair",,810.0,53.559848,9.926292,https://www.openstreetmap.org/way/1565180727
+osm:w1064370090,Altona,,,osm_other,3,"shade, wheelchair",,778.0,53.568535,9.895563,https://www.openstreetmap.org/way/1064370090
+osm:w125517458,Eimsbüttel,,,osm_other,3,"shade, wheelchair",,769.0,53.585679,9.923667,https://www.openstreetmap.org/way/125517458
+osm:w39748243,Eimsbüttel,,Steenwisch,both,3,"shade, wheelchair",,759.0,53.58248,9.938222,https://www.openstreetmap.org/way/39748243
+osm:w207709110,Eimsbüttel,,Faberstraße,both,3,"shade, wheelchair",,735.0,53.574281,9.944045,https://www.openstreetmap.org/way/207709110
+osm:w601996716,Eimsbüttel,,Stresemannallee,both,3,"shade, wheelchair",,721.0,53.589468,9.956405,https://www.openstreetmap.org/way/601996716
+osm:w51744616,Eimsbüttel,,Harvestehuder Weg,both,3,"shade, wheelchair",,615.0,53.580907,9.989222,https://www.openstreetmap.org/way/51744616
+osm:w1433748569,Altona,,Bernadottestraße,both,3,"shade, wheelchair",,535.0,53.548016,9.920308,https://www.openstreetmap.org/way/1433748569
+osm:w108065563,Eimsbüttel,,,osm_other,3,"shade, wheelchair",,526.0,53.597007,9.951365,https://www.openstreetmap.org/way/108065563
+osm:w33879016,Eimsbüttel,Spielplatz Lastropsweg,Lastropsweg,both,3,"shade, wheelchair",,494.0,53.578483,9.955189,https://www.openstreetmap.org/way/33879016
+osm:w145524397,Altona,,Theodorstraße - Osdorfer Weg,both,3,"shade, wheelchair",,439.0,53.566947,9.898939,https://www.openstreetmap.org/way/145524397
+osm:w362045760,Eimsbüttel,Spielplatz Stephanusgarten,Lutterothstraße - Eidelstedter Weg,both,3,"shade, wheelchair",,438.0,53.581901,9.942977,https://www.openstreetmap.org/way/362045760
+osm:w143568409,Altona,,,osm_other,3,"shade, seating",,407.0,53.596626,9.746661,https://www.openstreetmap.org/way/143568409
+osm:w1298188198,Altona,,Holstenring,both,3,"shade, wheelchair",,371.0,53.552442,9.920809,https://www.openstreetmap.org/way/1298188198
+osm:w38109119,Altona,,Elbchaussee,both,3,"shade, equipment",,346.0,53.545898,9.925759,https://www.openstreetmap.org/way/38109119
+osm:w362777715,Eimsbüttel,Spielplatz Else-Rauch-Platz,Methfesselstraße,both,3,"shade, wheelchair",,318.0,53.581216,9.946961,https://www.openstreetmap.org/way/362777715
+osm:w844842078,Altona,,,osm_other,3,"shade, wheelchair",,297.0,53.562614,9.90223,https://www.openstreetmap.org/way/844842078
+osm:w125417887,Altona,,,osm_other,3,"shade, wheelchair",,291.0,53.569762,9.904907,https://www.openstreetmap.org/way/125417887
+osm:w683592206,Eimsbüttel,,,osm_other,3,"shade, wheelchair",,156.0,53.589781,9.955599,https://www.openstreetmap.org/way/683592206
+osm:w683592236,Eimsbüttel,,,osm_other,3,"shade, trees",,88.0,53.590874,9.956076,https://www.openstreetmap.org/way/683592236
+osm:n1291656052,Altona,,Goethestraße 36,both,3,"shade, equipment",mapped as a point only,,53.552895,9.940192,https://www.openstreetmap.org/node/1291656052
+osm:n1748531640,Eimsbüttel,,,osm_park,3,"shade, seating",mapped as a point only,,53.601367,9.942191,https://www.openstreetmap.org/node/1748531640
+osm:w6084808,Altona,,Zeiseweg - Eggerstedtstraße,both,4,shade,,12963.0,53.559304,9.945535,https://www.openstreetmap.org/way/6084808
+osm:w61455565,Eimsbüttel,Abenteuerspielplatz,Julius-Vosseler-Straße,both,4,shade,,4716.0,53.585559,9.950924,https://www.openstreetmap.org/way/61455565
+osm:w24776875,Eimsbüttel,Spielplatz Bondenwald,,osm_other,4,shade,,3874.0,53.616329,9.941013,https://www.openstreetmap.org/way/24776875
+osm:w22712436,Eimsbüttel,Spielplatz in der Stellinger Schweiz,Deelwisch,both,4,shade,,3757.0,53.600694,9.940488,https://www.openstreetmap.org/way/22712436
+osm:w44850999,Altona,,Gefionstraße - Missundestraße,both,4,shade,,3230.0,53.563473,9.951555,https://www.openstreetmap.org/way/44850999
+osm:w337054234,Eimsbüttel,Spielplatz Am Weiher/Unnastraße,Unnastraße,both,4,shade,,2739.0,53.57897,9.959096,https://www.openstreetmap.org/way/337054234
+osm:w137433774,Eimsbüttel,Spielplatz Robinsons Insel,Amandastraße,both,4,shade,,2689.0,53.566373,9.959727,https://www.openstreetmap.org/way/137433774
+osm:w47698828,Eimsbüttel,Spielplatz Hellkamp,Hellkamp,both,4,shade,,2598.0,53.580783,9.948642,https://www.openstreetmap.org/way/47698828
+osm:w40023700,Altona,,Duschweg,both,4,shade,,2303.0,53.563528,9.95692,https://www.openstreetmap.org/way/40023700
+osm:w33073699,Eimsbüttel,,Parkallee,both,4,shade,,2290.0,53.578143,9.983617,https://www.openstreetmap.org/way/33073699
+osm:w37525280,Eimsbüttel,Spielplatz Am Weiher/Luttherothstraße,Am Weiher,both,4,shade,,2239.0,53.578253,9.95811,https://www.openstreetmap.org/way/37525280
+osm:w138097906,Altona,,Palmaille,both,4,shade,,2167.0,53.545584,9.935962,https://www.openstreetmap.org/way/138097906
+osm:w24964935,Altona,"Spielplatz Boninstraße ""Arni""",Arnoldstraße - Boninstraße,both,4,shade,,2159.0,53.548862,9.927003,https://www.openstreetmap.org/way/24964935
+osm:w169455266,Altona,,Schomburgstraße - Hospitalstraße,both,4,shade,,2082.0,53.552308,9.946749,https://www.openstreetmap.org/way/169455266
+osm:w267883415,Eimsbüttel,Spielplatz Eidelstedter Weg 49-55,Eidelstedter Weg 49 - 55,both,4,shade,,2032.0,53.582057,9.951018,https://www.openstreetmap.org/way/267883415
+osm:w22752050,Altona,,Am Kiekeberg - Schulbad,both,4,shade,,1654.0,53.560066,9.808542,https://www.openstreetmap.org/way/22752050
+osm:w78034652,Eimsbüttel,Spielplatz Langenfelder Damm,Langenfelder Damm,both,4,shade,,1593.0,53.578504,9.940034,https://www.openstreetmap.org/way/78034652
+osm:w33177475,Eimsbüttel,Spielplatz Voigtstraße/Rellinger Straße,Voigtstraße,both,4,shade,,1293.0,53.575789,9.941682,https://www.openstreetmap.org/way/33177475
+osm:w154225881,Eimsbüttel,Spielplatz Unna-Park,Heußweg,both,4,shade,,1279.0,53.575567,9.950316,https://www.openstreetmap.org/way/154225881
+osm:w97980019,Altona,,Gerichtstraße - Löfflerstraße,both,4,shade,,1157.0,53.556927,9.940193,https://www.openstreetmap.org/way/97980019
+osm:w137037881,Eimsbüttel,Spielplatz Bella Martha,Bellealliancestraße - Marthastraße,both,4,shade,,1066.0,53.56765,9.957998,https://www.openstreetmap.org/way/137037881
+osm:w137037907,Eimsbüttel,Bismarckspielplatz,Bismarckstraße,both,4,shade,,829.0,53.573822,9.964282,https://www.openstreetmap.org/way/137037907
+osm:w30737489,Eimsbüttel,Spielplatz Apostelkirche,Bei der Apostelkirche,both,4,shade,,816.0,53.576135,9.945529,https://www.openstreetmap.org/way/30737489
+osm:w73972598,Altona,,Eulenstraße - Keplerstraße,both,4,shade,,553.0,53.550703,9.923029,https://www.openstreetmap.org/way/73972598

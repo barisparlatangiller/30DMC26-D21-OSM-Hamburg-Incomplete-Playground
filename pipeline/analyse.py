@@ -31,6 +31,9 @@ from shapely.geometry import box, Point
 import rasterio.features as rf
 from rasterio.transform import from_origin
 import pvlib
+import rasterio
+import rasterio.windows
+from scipy import ndimage as ndi
 
 B = Path("build"); I = Path("input")
 R20 = 20.0
@@ -98,7 +101,27 @@ def sun():
     return [(float(a), float(e)) for a, e in zip(sp.azimuth, sp.apparent_elevation)]
 
 
-def shade_window(geom, bld, trees, suns):
+def shadows(dsm, inb, az, el):
+    H, W = dsm.shape
+    dx, dy = math.sin(math.radians(az)), math.cos(math.radians(az))         # towards the sun, east / north
+    tn = math.tan(math.radians(el))
+    sh = np.zeros((H, W), bool)
+    for k in range(1, 70):
+        ox, oy = int(round(dx * k)), int(round(-dy * k))                      # row axis points south
+        if abs(ox) >= W or abs(oy) >= H:
+            break
+        src = dsm[max(0, oy):H + min(0, oy), max(0, ox):W + min(0, ox)]
+        tgt = (slice(max(0, -oy), H - max(0, oy)), slice(max(0, -ox), W - max(0, ox)))
+        sh[tgt] |= src > k * tn
+    return sh | ((dsm > 0) & ~inb)                                             # under a crown
+
+
+def vec(mask, tr, simp=0.6):
+    polys = [shapely.geometry.shape(g) for g, v in rf.shapes(mask.astype("uint8"), mask=mask, transform=tr) if v == 1]
+    return shapely.union_all(polys).simplify(simp) if polys else None
+
+
+def shade_window(geom, bld, trees, suns, chm=None):
     x0, y0, x1, y1 = geom.buffer(70).bounds
     x0, y0 = math.floor(x0), math.floor(y0)
     W, H = int(math.ceil(x1 - x0)), int(math.ceil(y1 - y0))
@@ -111,32 +134,41 @@ def shade_window(geom, bld, trees, suns):
                            merge_alg=rf.MergeAlg.replace)
     inb = dsm > 0
     tt = trees.iloc[trees.sindex.query(win)]
+    tmask = np.zeros((H, W), bool)
     if len(tt):
         tdsm = rf.rasterize(((p.buffer(c / 2, 8), h) for p, c, h in zip(tt.geometry, tt.crown, tt.h)), out_shape=(H, W), transform=tr,
                             fill=0, dtype="float32")
+        tmask = tdsm > 0
         dsm = np.maximum(dsm, tdsm)
     pm = rf.rasterize([(geom, 1)], out_shape=(H, W), transform=tr, fill=0, dtype="uint8").astype(bool) & ~inb
     if pm.sum() == 0:
         pm = rf.rasterize([(geom.buffer(1.5), 1)], out_shape=(H, W), transform=tr, fill=0, dtype="uint8").astype(bool) & ~inb
-    out = []
-    for az, el in suns:
-        dx, dy = math.sin(math.radians(az)), math.cos(math.radians(az))     # towards the sun, east / north
-        tn = math.tan(math.radians(el))
-        sh = np.zeros((H, W), bool)
-        for k in range(1, 70):
-            ox, oy = int(round(dx * k)), int(round(-dy * k))                  # row axis points south
-            if abs(ox) >= W or abs(oy) >= H:
-                break
-            src = dsm[max(0, oy):H + min(0, oy), max(0, ox):W + min(0, ox)]
-            tgt = (slice(max(0, -oy), H - max(0, oy)), slice(max(0, -ox), W - max(0, ox)))
-            sh[tgt] |= src > k * tn
-        sh |= (dsm > 0) & ~inb                                                 # under a crown
-        out.append(sh)
-    fr = [float((s & pm).sum() / max(pm.sum(), 1)) for s in out]
-    s15 = out[TIMES.index("15:00")] & pm
-    polys = [shapely.geometry.shape(g) for g, v in rf.shapes(s15.astype("uint8"), mask=s15, transform=tr) if v == 1]
-    poly = shapely.union_all(polys).simplify(0.6) if polys else None
-    return fr, poly
+    ring = rf.rasterize([(geom.buffer(R20), 1)], out_shape=(H, W), transform=tr, fill=0, dtype="uint8").astype(bool) & ~inb
+    res = {}
+    i15 = TIMES.index("15:00")
+    sm = shadows(dsm, inb, *suns[i15])
+    res["shm_15"] = float((sm & pm).sum() / max(pm.sum(), 1))                 # shade from mapped things only
+    full = dsm
+    can = None
+    if chm is not None:
+        c0, r0 = ~chm.transform * (x0, y0 + H)
+        w = rasterio.windows.Window(int(round(c0)), int(round(r0)), W, H)
+        can = chm.read(1, window=w, boundless=True, fill_value=0).astype(np.float32) * 0.25
+        can[inb] = 0
+        full = np.maximum(dsm, np.where(can >= 2.5, can, 0))
+        cm = can >= 3
+        res["can_in"] = float((cm & pm).sum() / max(pm.sum(), 1))
+        res["can_20"] = float((cm & ring).sum() / max(ring.sum(), 1))
+        res["map_20"] = float((tmask & ring).sum() / max(ring.sum(), 1))
+        um = cm & ~ndi.binary_dilation(tmask, iterations=2) & ring
+        um = ndi.binary_opening(um, iterations=1)
+        res["unmapped_20"] = float(um.sum() / max(ring.sum(), 1))
+        res["ghost"] = vec(um, tr, 0.8)
+    sh = [shadows(full, inb, az, el) for az, el in suns]
+    for j, h in enumerate(TIMES):
+        res[f"sh_{h[:2]}"] = float((sh[j] & pm).sum() / max(pm.sum(), 1))
+    res["poly"] = vec(sh[i15] & pm, tr)
+    return res
 
 
 def main():
@@ -227,16 +259,18 @@ def main():
     U = gpd.GeoDataFrame(U, geometry="geometry", crs=25832)
     print(f"units {len(U)}  [{time.time() - t0:.0f} s]", flush=True)
     # shade
-    SH, PO = [], []
-    for k, (g, cls) in enumerate(zip(U.geometry, U.cls)):
-        fr, poly = shade_window(g, bld, trees, suns)
-        SH.append(fr); PO.append(poly)
+    chm = rasterio.open(B / "chm_1m.tif") if (B / "chm_1m.tif").exists() else None
+    print("canopy height:", bool(chm), flush=True)
+    RS, PO, GH = [], [], []
+    for k, g in enumerate(U.geometry):
+        r = shade_window(g, bld, trees, suns, chm)
+        PO.append(r.pop("poly")); GH.append(r.pop("ghost", None)); RS.append(r)
         if k % 100 == 0:
             print(f"  shade {k}/{len(U)}  [{time.time() - t0:.0f} s]", flush=True)
-    SH = np.array(SH)
-    for j, h in enumerate(TIMES):
-        U[f"sh_{h[:2]}"] = np.round(SH[:, j], 3)
-    U["sh_mean"] = np.round(SH.mean(1), 3)
+    RS = pd.DataFrame(RS).round(3)
+    for c in RS.columns:
+        U[c] = RS[c].values
+    U["sh_mean"] = np.round(RS[[f"sh_{h[:2]}" for h in TIMES]].mean(1), 3)
     w = {2: 1.0, 1: 0.5, 0: 0.0}
     U["score"] = sum(U[c].map(w) for c in ["s_shade", "s_trees", "s_seats", "s_access", "s_equip"])
     U["known"] = sum((U[c] == 2).astype(int) for c in ["s_shade", "s_trees", "s_seats", "s_access", "s_equip"])
@@ -244,6 +278,7 @@ def main():
     U["equip_list"] = U.equip_list.apply(lambda l: ",".join(l))
     U.to_parquet(B / "units.parquet")
     gpd.GeoDataFrame({"id": U.id}, geometry=PO, crs=25832).dropna().to_parquet(B / "shade_polys.parquet")
+    gpd.GeoDataFrame({"id": U.id}, geometry=GH, crs=25832).dropna().to_parquet(B / "ghost_canopy.parquet")
     near = trees.iloc[np.unique(np.concatenate([trees.sindex.query(g.buffer(60)) for g in U.geometry]))]
     near.to_parquet(B / "trees_near.parquet")
     pub = U[U.cls == "public"]
@@ -258,6 +293,9 @@ def main():
           "public_shade15_lt20": int((pub.sh_15 < 0.2).sum()), "public_no_tree_20m": int((pub.n_trees == 0).sum()),
           "by_bezirk": {b: {"public": int(((U.bezirk == b) & (U.cls == "public")).sum()),
                             "score": round(float(pub[pub.bezirk == b].score.mean()), 2)} for b in ["Altona", "Eimsbüttel"]},
+          "public_shade15_map_median": round(float(pub.shm_15.median()), 3),
+          "canopy": {k: round(float(pub[k].median()), 3) for k in ["can_in", "can_20", "map_20", "unmapped_20"] if k in pub},
+          "public_unmapped_canopy_gt10": int((pub.get("unmapped_20", pd.Series(0, index=pub.index)) > 0.10).sum()),
           "trees": trees.src.value_counts().to_dict(), "buildings": int(len(bld)), "lod2": bool((B / "lod2.parquet").exists())}
     (B / "stats.json").write_text(json.dumps(st, indent=1, ensure_ascii=False, default=int))
     print(json.dumps(st, indent=1, ensure_ascii=False, default=int))

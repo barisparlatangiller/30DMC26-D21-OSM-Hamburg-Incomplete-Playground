@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Incomplete Playground</title>
+<meta name="description" content="#30DayMapChallenge 2026 · Day 21 · OpenStreetMap. What does the map know about Hamburg's playgrounds? Altona and Eimsbüttel, tag by tag.">
+<meta property="og:title" content="The Incomplete Playground · What does the map know?">
+<meta property="og:description" content="Hamburg's map knows where children play, but rarely what is there: shade, trees, benches, wheelchair access, equipment.">
+<meta property="og:image" content="https://barisparlatangiller.github.io/30DMC26-D21-OSM-Hamburg-Incomplete-Playground/og.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
+<link href="style.css?v=1" rel="stylesheet">
+</head>
+<body>
+<div id="map"></div>
+
+<aside id="panel">
+  <header>
+    <div class="kick">#30DayMapChallenge · Day 21 · OpenStreetMap</div>
+    <h1 data-t="title">The Incomplete Playground</h1>
+    <p class="sub" data-t="sub">What does the map know about Hamburg's playgrounds?</p>
+    <div class="row top">
+      <div class="seg" id="modes"><button id="m-story" class="on" data-t="story">Story</button><button id="m-explore" data-t="explore">Explore</button></div>
+      <div class="seg" id="langs"><button data-l="en" class="on">EN</button><button data-l="tr">TR</button></div>
+    </div>
+  </header>
+
+  <section id="kpi"></section>
+
+  <section>
+    <h3 data-t="fiveq">Five questions, five answers</h3>
+    <div id="qbars"></div>
+    <div class="legend3">
+      <span><i class="lk known"></i><b data-t="st2">In the map</b></span>
+      <span><i class="lk inf"></i><b data-t="st1">Inferred</b></span>
+      <span><i class="lk null"></i><b>NULL</b></span>
+    </div>
+  </section>
+
+  <section>
+    <h3 data-t="colourby">Colour playgrounds by</h3>
+    <div class="seg wide" id="colour">
+      <button data-c="known" class="on" data-t="c_known">What the map knows</button>
+      <button data-c="shade" data-t="c_shade">Shade</button>
+      <button data-c="canopy" data-t="c_canopy">Unmapped trees</button>
+    </div>
+    <div id="hours" class="seg wide hide"><button data-h="11">11:00</button><button data-h="13">13:00</button><button data-h="15" class="on">15:00</button><button data-h="17">17:00</button></div>
+    <div id="ramp"></div>
+  </section>
+
+  <section>
+    <h3 data-t="show">Show</h3>
+    <div class="toggles">
+      <label><input type="checkbox" data-s="public" checked><i class="sw pub"></i><span data-t="l_public">Public playgrounds</span></label>
+      <label><input type="checkbox" data-s="register_only" checked><i class="sw reg"></i><span data-t="l_reg">Official, not in OSM</span></label>
+      <label><input type="checkbox" data-s="school" checked><i class="sw sch"></i><span data-t="l_school">School &amp; kita grounds</span></label>
+      <label><input type="checkbox" data-s="private"><i class="sw pri"></i><span data-t="l_private">Private (housing estates)</span></label>
+      <label><input type="checkbox" data-s="rings" checked><i class="sw ring"></i><span data-t="l_rings">Answer rings</span></label>
+      <label><input type="checkbox" data-s="trees" checked><i class="sw tree"></i><span data-t="l_trees">Mapped trees (3D)</span></label>
+      <label><input type="checkbox" data-s="ghost" checked><i class="sw ghost"></i><span data-t="l_ghost">Tree canopy the map doesn't know</span></label>
+      <label><input type="checkbox" data-s="shadow" checked><i class="sw shd"></i><span data-t="l_shadow">Shade at 15:00 (15 July)</span></label>
+      <label><input type="checkbox" data-s="things" checked><i class="sw thg"></i><span data-t="l_things">Benches &amp; equipment</span></label>
+    </div>
+  </section>
+
+  <section id="card" class="hide"></section>
+
+  <section>
+    <details>
+      <summary data-t="h_method">Method</summary>
+      <div data-t="method" class="txt"></div>
+    </details>
+    <details>
+      <summary data-t="h_limits">Limits</summary>
+      <div data-t="limits" class="txt"></div>
+    </details>
+    <details>
+      <summary data-t="h_sources">Sources</summary>
+      <div data-t="sources" class="txt"></div>
+    </details>
+    <p class="dl"><a href="data/to_check.csv" download data-t="dl">⬇ List of playgrounds to check on site (CSV)</a></p>
+    <p class="foot">Barış Parlatangiller · <a href="https://barisparlatangiller.github.io/">30 maps</a> · <a href="https://github.com/barisparlatangiller/30DMC26-D21-OSM-Hamburg-Incomplete-Playground">code</a></p>
+  </section>
+</aside>
+
+<div id="story">
+  <div id="s-kick"></div>
+  <h2 id="s-title"></h2>
+  <div id="s-text"></div>
+  <div id="s-key"></div>
+  <div class="nav"><button id="s-prev">‹</button><div id="s-dots"></div><button id="s-next">›</button></div>
+  <button id="s-skip" data-t="skip">Explore the map yourself →</button>
+</div>
+
+<div id="tip"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/deck.gl@9.0.38/dist.min.js"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>
