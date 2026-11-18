@@ -212,7 +212,7 @@ function deckLayers() {
   }
   if (S.vis.rings && z >= 14.3) {
     const data = U.features.filter(f => (f.properties.cat === "public" && S.vis.public) || (f.properties.cat === "register_only" && S.vis.register_only) || (S.sel && f.properties.id === S.sel));
-    const sz = Math.min(64, Math.max(26, 26 + (z - 14.3) * 14));
+    const sz = Math.min(64, Math.max(26, 26 + (z - 14.3) * 14)) * (S.ringK || 1);
     L.push(new deck.IconLayer({ id: "rings", data, pickable: true, billboard: true, sizeUnits: "pixels", getSize: f => f.properties.id === S.sel ? sz * 1.35 : sz,
       getPosition: f => [f.properties.lon, f.properties.lat, 2], getIcon: f => ringIcon(f.properties.q, f.properties.known, f.properties.cat === "register_only", f.properties.id === S.sel),
       opacity: Math.min(1, (z - 14.3) / 0.4), updateTriggers: { getIcon: [S.sel], getSize: [S.sel, sz] }, parameters: { depthTest: false } }));
@@ -396,6 +396,10 @@ async function init() {
   document.addEventListener("keydown", e => { if (S.mode !== "story") return; if (e.key === "ArrowRight") go(S.step + 1); if (e.key === "ArrowLeft") go(S.step - 1); });
   lang(S.lang);
   const qs = new URLSearchParams(location.search);
+  if (qs.get("film")) { document.body.classList.add("film"); S.mode = "film"; S.ringK = 1.55; map.setPadding({ left: 0, right: 0, top: 380, bottom: 150 });
+    const c = document.createElement("div"); c.id = "cap"; document.body.appendChild(c);
+    window.Film = { map: () => map, S, restyle, deckLayers, select, BYID, ST: () => ST, U: () => U, ringIcon, QC, Q, T };
+    window.READY = true; return; }
   if (qs.get("mode") === "explore") { setMode("explore"); restyle(); } else setMode("story");
   if (qs.get("step")) go(+qs.get("step"));
   addEventListener("resize", pad);
