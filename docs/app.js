@@ -284,7 +284,7 @@ function steps() {
   const zero = F.filter(p => p.known === 0).length, n = F.length;
   const ghostPick = s.story?.ghost, shadePick = s.story?.shade || "osm:w137037907";
   const sh = pct(s.public_shade15_median), shm = pct(s.public_shade15_map_median), un = s.public_unmapped_canopy_gt10;
-  const notree = F.filter(p => p.q[1] === "0").length;
+  const notree = F.filter(p => p.n_trees === 0).length;
   const K = (c, l) => `<span><i class="sw" style="background:${c}"></i>${l}</span>`;
   return [
     { v: { center: [9.885, 53.588], zoom: 11.6, pitch: 0, bearing: 0 }, colour: "known", vis: { rings: 1, trees: 0, ghost: 0, shadow: 0 },
@@ -396,6 +396,7 @@ async function init() {
   document.addEventListener("keydown", e => { if (S.mode !== "story") return; if (e.key === "ArrowRight") go(S.step + 1); if (e.key === "ArrowLeft") go(S.step - 1); });
   lang(S.lang);
   const qs = new URLSearchParams(location.search);
+  if (qs.get("lang") && T[qs.get("lang")]) lang(qs.get("lang"));
   if (qs.get("film")) { document.body.classList.add("film"); S.mode = "film"; S.ringK = 1.55; map.setPadding({ left: 0, right: 0, top: 380, bottom: 150 });
     const c = document.createElement("div"); c.id = "cap"; document.body.appendChild(c);
     window.Film = { map: () => map, S, restyle, deckLayers, select, BYID, ST: () => ST, U: () => U, ringIcon, QC, Q, T };
