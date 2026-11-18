@@ -1,0 +1,67 @@
+name: Fetch LoD2 buildings + canopy height (Altona + Eimsbüttel)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/fetch.yml", "pipeline/lod2.py", "pipeline/chm.py"]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tools
+        run: pip install -q lxml shapely pyproj geopandas pyarrow requests rasterio
+      - name: Canopy height (Meta/WRI CHM, 1 m) around the playgrounds
+        continue-on-error: true
+        run: |
+          mkdir -p /tmp/f/out && cd /tmp/f
+          python3 $GITHUB_WORKSPACE/pipeline/chm.py $GITHUB_WORKSPACE/data/units_buf80.geojson out/chm_1m.tif
+          ls -la out
+      - name: Find the newest LoD2-DE Hamburg download (Transparenzportal CKAN)
+        run: |
+          set -x
+          mkdir -p /tmp/f/out && cd /tmp/f
+          python3 - <<'PY'
+          import requests, json
+          urls = []
+          for q in ["LoD2-DE Hamburg", "3D-Stadtmodell LoD2", "LoD2"]:
+              for base in ["https://suche.transparenz.hamburg.de/api/3/action/package_search", "https://ckan.transparenz.hamburg.de/api/3/action/package_search"]:
+                  try:
+                      r = requests.get(base, params={"q": q, "rows": 30}, timeout=60).json()
+                  except Exception as e:
+                      print("fail", base, e); continue
+                  for p in r.get("result", {}).get("results", []):
+                      for res in p.get("resources", []):
+                          u = res.get("url", "")
+                          print(p.get("title"), "|", p.get("metadata_modified"), "|", u)
+                          if "lod2" in u.lower() and u.lower().endswith(".zip"):
+                              urls.append((p.get("metadata_modified") or "", u))
+          urls = sorted(set(urls), reverse=True)
+          print("CANDIDATES", json.dumps(urls, indent=1))
+          open("urls.txt", "w").write("\n".join(u for _, u in urls))
+          PY
+          cat urls.txt
+      - name: Download
+        continue-on-error: true
+        run: |
+          cd /tmp/f
+          echo "https://daten-hamburg.de/geographie_geologie_geobasisdaten/3d_stadtmodell_lod2/LoD2-DE_HH_2017-12-31.zip" >> urls.txt
+          for u in $(cat urls.txt); do
+            echo "try $u"
+            if curl -fsSL --retry 3 --retry-all-errors -o lod2.zip "$u"; then echo "$u" > out/source_url.txt; break; fi
+          done
+          ls -la lod2.zip && unzip -l lod2.zip | head -30 && unzip -l lod2.zip | tail -3
+      - name: Footprints + heights
+        continue-on-error: true in Altona / Eimsbüttel
+        run: |
+          cd /tmp/f && python3 $GITHUB_WORKSPACE/pipeline/lod2.py lod2.zip out/lod2_ae.parquet
+          ls -la out
+      - name: Push to branch fetched
+        run: |
+          cd /tmp/f/out
+          git init -q -b fetched && git config user.name "github-actions" && git config user.email "actions@github.com"
+          git add -A && git commit -q -m "LoD2 Altona/Eimsbüttel $(date -u +%F)"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" fetched
