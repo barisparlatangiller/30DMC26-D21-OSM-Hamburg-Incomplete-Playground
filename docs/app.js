@@ -8,7 +8,6 @@ const RAMP_K = ["#efe1cb", "#d8e6dc", "#aed0c3", "#7cb0a3", "#4b897f", "#2a625b"
 const RAMP_S = [[0, "#f2cc63"], [0.25, "#dcc78c"], [0.5, "#a3b5a6"], [0.75, "#65858f"], [1, "#384f5e"]];
 const RAMP_C = [[0, "#efefe6"], [0.08, "#d5e3c6"], [0.2, "#a6c78f"], [0.4, "#6e9a5c"], [0.7, "#456f3b"]];
 const S = { lang: "en", mode: "story", colour: "known", hour: "15", vis: { public: 1, register_only: 1, school: 1, private: 0, rings: 1, trees: 1, ghost: 1, shadow: 1, things: 1 }, sel: null, step: 0, zoom: 12 };
-try { const l = localStorage.getItem("d21lang"); if (l) S.lang = l; } catch (e) {}
 let map, overlay, U, P, ST, TREES, TH, BYID = {};
 
 // ---------------- text ----------------
@@ -396,7 +395,6 @@ async function init() {
   document.addEventListener("keydown", e => { if (S.mode !== "story") return; if (e.key === "ArrowRight") go(S.step + 1); if (e.key === "ArrowLeft") go(S.step - 1); });
   lang(S.lang);
   const qs = new URLSearchParams(location.search);
-  if (qs.get("lang") && T[qs.get("lang")]) lang(qs.get("lang"));
   if (qs.get("film")) { document.body.classList.add("film"); S.mode = "film"; S.ringK = 1.55; map.setPadding({ left: 0, right: 0, top: 380, bottom: 150 });
     const c = document.createElement("div"); c.id = "cap"; document.body.appendChild(c);
     window.Film = { map: () => map, S, restyle, deckLayers, select, BYID, ST: () => ST, U: () => U, ringIcon, QC, Q, T };
